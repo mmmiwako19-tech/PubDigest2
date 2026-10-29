@@ -1,0 +1,3224 @@
+{
+  "reported_pmids": {
+    "42055800": {
+      "title": "Pathogenic mobile element insertion in the <i>MEN1</i> gene mimicking a deletion in MLPA: characterisation by long-read sequencing.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "42055802": {
+      "title": "Uterine serous carcinoma and germline genetic testing: patterns of referral, completion and pathogenic variant detection.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "42047558": {
+      "title": "Clonal Dynamics of Hematopoiesis in Aplastic Anemia after Immunosuppression and Eltrombopag.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "42059179": {
+      "title": "Evidence-based classification of genes implicated in craniosynostosis disorders using the ClinGen curation framework.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "42059893": {
+      "title": "Multi-Omic Landscape of Gastrointestinal Stromal Tumors in a Real-World Patient Cohort of 1,427 Cases.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "42056513": {
+      "title": "Demography and life histories across the Roman frontier in Germany 400-700 CE.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "42049600": {
+      "title": "Insights into the genetic aetiology of diabetes in Africa.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "42032049": {
+      "title": "Enhanced pathogen identification in fungal endophthalmitis by metagenomic next-generation sequencing: a retrospective clinical evaluation.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "42049740": {
+      "title": "Uromodulin p.His36Tyr promotes macrophage pyroptosis via App-Cd74 signaling to drive renal inflammation in ADTKD.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "42056473": {
+      "title": "'Everyday genetics' in the Mass Observation Project: insights on genetics from people writing for an archive of everyday life in Britain.",
+      "reported_at": "2026-04-30T22:20:05.051165"
+    },
+    "41422862": {
+      "title": "Capivasertib plus paclitaxel as first-line treatment for metastatic triple-negative breast cancer: results from the randomised, global phase III CAPItello-290 trial.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "41443411": {
+      "title": "Cetuximab rechallenge in molecularly selected metastatic colorectal cancer: the randomized CAVE-2 GOIM trial.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "42056442": {
+      "title": "Molecular heterogeneity of ERBB2-altered cancers: A pan-cancer landscape across US and Japanese cohorts.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "42001896": {
+      "title": "Targeting MEK in cancer and beyond: mechanistic insights and therapeutic opportunities.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "41638486": {
+      "title": "Progress in targeting the untouchables: emerging approaches for hard-to-drug cancer targets.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "41772030": {
+      "title": "Claudin proteins as emerging therapeutic targets for solid tumours.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "41474069": {
+      "title": "Five-year outcomes of pembrolizumab versus chemotherapy in Chinese patients with non-small-cell lung cancer and programmed cell death ligand 1 tumor proportion score ≥1%: KEYNOTE-042 China study.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "41235921": {
+      "title": "HER2 Positivity as a Prognostic Biomarker and Therapeutic Target in Advanced Biliary Tract Cancer: A Multi-institutional Analysis.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "41701943": {
+      "title": "DNA Methylation-Based Risk Stratification and Classification of Pediatric Thyroid Carcinoma.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "42053152": {
+      "title": "Population-Based Identification of Clonal Hematopoiesis Using Peripheral Blood Whole-Genome Sequencing in Japan.",
+      "reported_at": "2026-05-01T22:18:33.629501"
+    },
+    "41731061": {
+      "title": "Innovative approaches for lung cancer screening and interception.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "42060270": {
+      "title": "Adult T-Cell Leukemia/Lymphoma and Targeted Maternal Screening.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "41735582": {
+      "title": "Preventing obesity-related cancer with the revolution in obesity management: the challenges of undertaking a clinical trial and potential solutions.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "41817445": {
+      "title": "Nearly 40% of Cancers Could Be Prevented.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "41101428": {
+      "title": "Seroprevalence of Helicobacter pylori Infection Among Asymptomatic Patients Served by a Safety-Net Healthcare System.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "42066070": {
+      "title": "HnRNP C binding to inverted <i>Alu</i> elements protects the transcriptome from pre-mRNA circularization.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "42037164": {
+      "title": "Modern Treatment for Achalasia: Endoscopic and Surgical therapies.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "41654661": {
+      "title": "Adherence to Endocrine Prevention in Patients with Atypical Hyperplasia and Lobular Carcinoma In Situ: Promising Trends from Real-World Use of Low-Dose Tamoxifen.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "42048421": {
+      "title": "Phase II trial of encapsulated rapamycin to reduce polyp burden associated with familial adenomatous polyposis.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "42045397": {
+      "title": "Gallic acid chemoprevention of oral carcinogenesis is associated with HSD11β2 upregulation and immune remodeling.",
+      "reported_at": "2026-05-02T22:14:24.839023"
+    },
+    "41969015": {
+      "title": "Pain and health-related quality-of-life outcomes with darolutamide in metastatic hormone-sensitive prostate cancer (ARANOTE): secondary and exploratory analyses of a multicentre, randomised, placebo-controlled, phase 3 trial.",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "42061381": {
+      "title": "Clinical trial endpoints for metastases-directed therapy in oligometastatic cancer: a review and Delphi consensus on behalf of the EORTC-ESTRO OligoCare consortium.",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "41872531": {
+      "title": "Self-help cognitive behavioural therapy for hot flushes and night sweats during androgen deprivation therapy for prostate cancer: the MANCAN2 randomized controlled trial.",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "42044105": {
+      "title": "Effectiveness of yoga therapy as an adjunct on mental health status, quality of life, and medication adherence among people living with HIV on antiretroviral therapy: A study protocol of a randomized controlled trial (ART YOGA).",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "42067175": {
+      "title": "AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review.",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "42066057": {
+      "title": "The Management of Irritable Bowel Syndrome: A Position Paper of the Neurogastroenterology and Motility Section of the Israeli Gastroenterology Association.",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "41407089": {
+      "title": "Screening for Celiac Disease in Childhood: Cost-Effectiveness of Multiple Genetic and Serological Testing Approaches.",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "42060214": {
+      "title": "Bridging the distance in precision oncology: a nationwide survey on institutional perspectives toward telemedicine and decentralized trials in Japan.",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "41197984": {
+      "title": "Role of antireflux mucosal ablation in \"reflux-predominant\" refractory gastroesophageal reflux disease: a randomized sham-controlled trial.",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "42054400": {
+      "title": "A feasibility study on the efficacy of a VR-based mindfulness intervention for dementia caregivers in the home environment: A pilot randomized control trial protocol.",
+      "reported_at": "2026-05-03T22:15:32.524139"
+    },
+    "41521736": {
+      "title": "Outcomes from the English National Lynch Syndrome transformation project.",
+      "reported_at": "2026-05-04T22:21:50.037152"
+    },
+    "41840140": {
+      "title": "A paradigm shift in genetic predisposition to colorectal cancer: the impact of germline multigene panel testing on diagnosis and management.",
+      "reported_at": "2026-05-04T22:21:50.037152"
+    },
+    "42066233": {
+      "title": "Phase I Study of Telisotuzumab Adizutecan (Temab-A, ABBV-400), a Novel c-Met Antibody-Drug Conjugate, in Patients With Late-Line Colorectal Cancer and Advanced Solid Tumors.",
+      "reported_at": "2026-05-04T22:21:50.037152"
+    },
+    "42062535": {
+      "title": "Integrating CD45 + CD3+ and CD3 + CD8+ T-cell markers into nomograms for predicting survival in gastroesophageal junction carcinoma.",
+      "reported_at": "2026-05-04T22:21:50.037152"
+    },
+    "42066685": {
+      "title": "Impact of treatment discontinuation among patients with microsatellite instability or mismatch repair-deficient metastatic colorectal cancer treated with immune checkpoint inhibitors.",
+      "reported_at": "2026-05-04T22:21:50.037152"
+    },
+    "42066786": {
+      "title": "Effect of one or two cycles of dual immunotherapy with nivolumab and ipilimumab in patients with mismatch repair-deficient rectal cancer (RESET-R): interim results from a multicentre, single-arm, phase 2 trial.",
+      "reported_at": "2026-05-04T22:21:50.037152"
+    },
+    "42069926": {
+      "title": "Single-cell transcriptomic profiling reveals cellular stress responses to hypothermic preservation in liver-on-chip model.",
+      "reported_at": "2026-05-04T22:21:50.037152"
+    },
+    "41739006": {
+      "title": "Incidence of Cancer in Patients With Familial Adenomatous Polyposis in the Netherlands: A Nationwide Cohort Study.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "41801175": {
+      "title": "Prevalence and Consequences of APC Mosaicism in Patients With Colorectal Adenomas.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "41718605": {
+      "title": "Repurposing Tumor Cells: A Paradigm Shift in Cell-Based Therapies for Cancer.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "41850312": {
+      "title": "Genomic Profiling in Localized Prostate Cancer: Associations With Biochemical Recurrence and Response to Salvage Radiotherapy.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "41412497": {
+      "title": "Germline alterations in patients with lung cancer.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "42067655": {
+      "title": "Tumor-localized CD40 agonism with MP0317, a FAP x CD40 DARPin, reprograms the tumor microenvironment in patients with advanced solid tumors: an open-label, nonrandomized, dose-escalation phase 1 study.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "42067656": {
+      "title": "Safety and activity of RO7300490, a bispecific CD40 agonist targeted to fibroblast activation protein, in patients with advanced solid tumors: a single-arm, multicenter, first-in-human, phase 1 trial.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "42082533": {
+      "title": "Metagenomic analysis of bacterial diversity, antibiotic resistance, and functional profiles in the ice core samples from two glaciers of Sikkim Himalaya.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "42054991": {
+      "title": "A spatial code governs olfactory receptor choice and aligns sensory maps in the nose and brain.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "42066438": {
+      "title": "Multi-ancestry genome-wide association study of serum creatine kinase implicates myopathy genes and muscle pathways.",
+      "reported_at": "2026-05-05T22:22:10.671378"
+    },
+    "42036915": {
+      "title": "Multigene germline testing for epithelial ovarian cancer in China.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "41686836": {
+      "title": "A Phase II Trial of Niraparib in Patients with Advanced Pancreatic Cancer Harboring Pathogenic Variants in ATM, BRCA1, BRCA2, PALB2, and CHEK2.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "42081726": {
+      "title": "Regulation of antiviral and antitumor immunity by the <i>BRCA1</i> pseudogene in human cancers.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "42089945": {
+      "title": "Nationwide genomic data analysis of central nervous system tumors in Japan based on C-CAT database.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "41912676": {
+      "title": "Natural menopause, menarche and breast cancer risk in BRCA1 and BRCA2 pathogenic variant carriers: a Mendelian randomization analysis.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "41795872": {
+      "title": "FOLFIRINOX vs. Gemcitabine/Nab-Paclitaxel for Pancreatic Cancer by BRCA2 and TMB Status: A Japanese C-CAT Database Study.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "42056493": {
+      "title": "ATM counteracts chromatin-bound cGAS during DNA replication.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "41591363": {
+      "title": "Loss of JAK1 Function Causes G2-M Cell-Cycle Defects Vulnerable to KIF18A Inhibition.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "42054556": {
+      "title": "Shaping CDK4/6 inhibitor resistance: BRCA2 germline alterations bias towards RB1 inactivation.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "42069856": {
+      "title": "Satellite estimation of global air sea CO<sub>2</sub> flux from 2000 to 2020.",
+      "reported_at": "2026-05-06T22:19:45.592782"
+    },
+    "41718631": {
+      "title": "How Has the Rise of Direct-To-Consumer Genetic Testing Impacted Genetic Counselling Practice? A Scoping Review.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "41360439": {
+      "title": "Prevalence and Spectrum of Congenital Heart Disease in Individuals With Distal Chromosome 22q11.22-23 Deletions.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "42082646": {
+      "title": "Harmonizing the genetic counselor profession in Europe.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "41875376": {
+      "title": "Results From the Genetic Information and Family Testing Study: A Cluster-Randomized Trial.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "41691475": {
+      "title": "Uptake of cascade tests in relatives of patients undergoing cancer precision medicine in Japan.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "41373166": {
+      "title": "Clinical Characteristics and Treatment Outcomes in Children With Non-Acquired Epilepsy: A Cohort Study Based on Genetic Findings.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "42090378": {
+      "title": "Node properties of biomarkers within the protein-protein interaction network derived from breast cancer-associated genes.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "41530599": {
+      "title": "Multigene Germline Testing in Patients with DCIS vs Invasive Breast Cancer in a Large, Integrated Health Care System.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "42071048": {
+      "title": "Genomic profiling and therapeutic targets of Thai melanoma revealed by next-generation sequencing.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "42090629": {
+      "title": "Potential of Minimal Residual Disease in Guiding Adjuvant Therapy Decisions in Non-Small Cell Lung Cancer.",
+      "reported_at": "2026-05-07T22:24:32.507376"
+    },
+    "42090628": {
+      "title": "Integrating Somatic and Germline Pharmacogenomics for Therapeutic Decisions in Precision Oncology.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "42069955": {
+      "title": "Translational feasibility of a plasmonic microarray-based liquid biopsy for KRAS codon mutation detection across tissue, plasma, and urine in early colorectal cancer.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "42098139": {
+      "title": "GLUT6-facilitated noncanonical glucose metabolic rewiring enables resistance to targeted cancer therapy.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "42101732": {
+      "title": "Comparative efficacy of prevention strategies for oral mucositis in breast cancer patients: a network meta-analysis.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "42092352": {
+      "title": "Disrupted molecular glue complex drives RAS inhibitor resistance.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "41742683": {
+      "title": "Clinical and Genetic Landscape of Glioblastoma, IDH-Wildtype With FGFR Gene Family Alterations.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "41544704": {
+      "title": "ctDNA-guided immunotherapy following radical cystectomy for muscle-invasive bladder cancer: results from the TOMBOLA trial.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "41644920": {
+      "title": "Real-World Long-Term Outcomes of First-Line Pembrolizumab in Advanced PD-L1 ≥ 50% NSCLC: A Systematic Review and Meta-analysis.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "41999665": {
+      "title": "Enabling AI to Drive Innovation and Precision across Oncology R&D.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "42008780": {
+      "title": "AI-Driven Pathology and Blood-Based Biomarkers: A Golden Opportunity to Democratize Precision Oncology.",
+      "reported_at": "2026-05-08T22:22:01.712716"
+    },
+    "42090367": {
+      "title": "Prevalence and determinants of parental refusal of human papillomavirus vaccination in Morocco: A multicenter cross-sectional study.",
+      "reported_at": "2026-05-09T22:15:25.571072"
+    },
+    "42089916": {
+      "title": "Lynch syndrome integrative epidemiology and genetics (LINEAGE): rationale for cohort design.",
+      "reported_at": "2026-05-09T22:15:25.571072"
+    },
+    "42071337": {
+      "title": "Associations of Outdoor Air Pollution With Incidence of Cancers Other Than Lung Cancer in a Large US Prospective Cohort.",
+      "reported_at": "2026-05-09T22:15:25.571072"
+    },
+    "42102522": {
+      "title": "Risk-reducing gynecologic surgery decisions in Lynch syndrome at a safety-net hospital and university medical center.",
+      "reported_at": "2026-05-09T22:15:25.571072"
+    },
+    "42086741": {
+      "title": "Genomic newborn screening: data retention for research and clinical reuse.",
+      "reported_at": "2026-05-09T22:15:25.571072"
+    },
+    "41990740": {
+      "title": "Performance of LFSPRO prediction in TP53 mutation status for prospectively collected probands.",
+      "reported_at": "2026-05-09T22:15:25.571072"
+    },
+    "42092005": {
+      "title": "The impact of oral diseases on the quality of life of patients attending the oral medicine clinic at a dental specialty centre.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42090476": {
+      "title": "Wuqinxi exercise for mind and balance: Enhancing cognition, fall prevention, and quality of life in older adults with mild cognitive impairment.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42084786": {
+      "title": "Population-Based First Estimates of the Effect of HPV Vaccination in Three Italian Areas Covered by Organised Cervical Screening.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42085423": {
+      "title": "Health coach-supported mobile health intervention to improve adherence to lipid-lowering medications (AdLip): Design and rationale of a multicentre randomized controlled trial protocol.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42096433": {
+      "title": "Interrelated adolescent-level food insecurity and common mental health disorders in Harari Region, Ethiopia: A cross-sectional study.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42097893": {
+      "title": "A chemotherapy-free, pathological response-adapted strategy using trastuzumab-pertuzumab and T-DM1 in HER2-positive early breast cancer: the PHERGain-2 study.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42103809": {
+      "title": "Dexmedetomidine for sedation during noninvasive ventilation in COVID-19 patients from the Helmet-COVID randomized clinical trial post-hoc analysis.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42086647": {
+      "title": "Pre-treatment vitamin D insufficiency predicts severe paclitaxel-induced sensory neuropathy in breast cancer patients: a prospective cohort study.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42102889": {
+      "title": "Safely Stopping Premedications in Patients Receiving Paclitaxel: A Randomized Trial.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42105947": {
+      "title": "Randomized Sham Controlled Trial of Translumbosacral Neuromodulation Therapy for Fecal Incontinence.",
+      "reported_at": "2026-05-10T22:17:26.952227"
+    },
+    "42097167": {
+      "title": "Acquired Resistance to Immune Checkpoint Inhibitors Across Tumor Types: A Reconstructed Individual Patient Data Analysis.",
+      "reported_at": "2026-05-11T22:23:19.842155"
+    },
+    "42113415": {
+      "title": "Optimal upper gastrointestinal surveillance strategies for gastric, small bowel and pancreatic cancer detection in Lynch syndrome.",
+      "reported_at": "2026-05-11T22:23:19.842155"
+    },
+    "42085635": {
+      "title": "Neoadjuvant Single-Cycle Pembrolizumab for Stage I-III MMR-Deficient Colon Cancer: The RESET-C Trial.",
+      "reported_at": "2026-05-11T22:23:19.842155"
+    },
+    "42092363": {
+      "title": "Reprogramming T cell-myeloid crosstalk overcomes immune resistance in colorectal cancer.",
+      "reported_at": "2026-05-11T22:23:19.842155"
+    },
+    "42091595": {
+      "title": "Double strand breaks drive toxicity in a Huntington's disease mouse model with or without somatic expansion.",
+      "reported_at": "2026-05-11T22:23:19.842155"
+    },
+    "42092351": {
+      "title": "Biodiversity and biogeography of the multi-kingdom cancer microbiome.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42106335": {
+      "title": "Population-scale characterization of the oral microbiome and associations with metabolic health.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42092060": {
+      "title": "Germline haploinsufficiency of MUTYH causes mutational signature SBS18 in multiple tumour types and specifically raises colorectal cancer risk.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42091966": {
+      "title": "Hypericin-loaded small extracellular vesicles increase photodynamic therapy and remodel miRNA-mRNA axes in AGS gastric cancer cells.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42096558": {
+      "title": "Deep-Earth map points to a lost U.S. continent.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42091586": {
+      "title": "Disentangling the drivers and host-mediated global spread of H7 influenza A virus.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42086854": {
+      "title": "Population-level super-pangenome reveals genome evolution and empowers precision breeding in watermelon.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42103771": {
+      "title": "Using satellite imagery to map rural marketplaces and monitor their activity at high frequency.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42113989": {
+      "title": "Politics embodied: How politics shapes and is shaped by the bodily experience of emotions.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42086668": {
+      "title": "Zero-dose vaccination status among children in Malawi: patterns, predictors, and geographic hotspots.",
+      "reported_at": "2026-05-12T22:28:13.144525"
+    },
+    "42114202": {
+      "title": "Real-world genetic testing data of ovarian cancer patients: Informing counseling and risk reduction in patients over age seventy.",
+      "reported_at": "2026-05-13T22:28:07.224585"
+    },
+    "42105598": {
+      "title": "Efficacy of olaparib in advanced cancers with somatic or germline mutations in BAP1, BARD1, BRIP1 and PALB2.",
+      "reported_at": "2026-05-13T22:28:07.224585"
+    },
+    "42120731": {
+      "title": "AZD6738 overcomes acquired olaparib resistance in BRCA1 mutation triple-negative breast cancer through down-regulation of BRCA2 and RAD51.",
+      "reported_at": "2026-05-13T22:28:07.224585"
+    },
+    "42113576": {
+      "title": "ATM Deficiency Induces TGF-β-Mediated Stromal Programming in Pancreatic Cancer.",
+      "reported_at": "2026-05-13T22:28:07.224585"
+    },
+    "42126651": {
+      "title": "Factors influencing uptake of risk-reducing mastectomy among unaffected Israeli BRCA1/BRCA2 pathogenic variant carriers.",
+      "reported_at": "2026-05-13T22:28:07.224585"
+    },
+    "41950923": {
+      "title": "Measuring disease likelihood in genomic ascertainment.",
+      "reported_at": "2026-05-13T22:28:07.224585"
+    },
+    "42092176": {
+      "title": "JPI-547, a novel dual inhibitor of PARP1/2 and tankyrase is more effective than first-generation PARP inhibitors in preclinical BRCA1/2-mutated cancer models.",
+      "reported_at": "2026-05-13T22:28:07.224585"
+    },
+    "42098349": {
+      "title": "Whole exome sequencing reveals rare DNA repair gene variants in BRCA1/2-negative Arab early-onset breast cancer patients.",
+      "reported_at": "2026-05-13T22:28:07.224585"
+    },
+    "42098553": {
+      "title": "Step-by-Step Pancreaticoduodenectomy in Complete Situs Inversus: Technical Strategy to Preserve Oncologic Principles in a Rare Anatomical Setting.",
+      "reported_at": "2026-05-13T22:28:07.224585"
+    },
+    "42104851": {
+      "title": "Nationwide Newborn Screening for Mucopolysaccharidoses in Taiwan: Impact, Early Diagnosis, and Clinical Advances over the Past Decade.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "42113783": {
+      "title": "WGS identifies Lynch syndrome (LS) patients and uncovers a large family with MSH2-related LS in Southern Thailand.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "42128748": {
+      "title": "Prospective use of genomics in the evaluation of sudden cardiac death: results from a national health service population pathway.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "42129557": {
+      "title": "An X-linked long non-coding RNA, PTCHD1-AS, and the core features of autism.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "42104850": {
+      "title": "An integrated cardiometabolic genetic testing program in a predominantly Hispanic population within a community setting.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "42114514": {
+      "title": "Bridging clinical gaps in personalized cancer neoantigen vaccines.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "42113772": {
+      "title": "Using deep learning to identify inherited retinal diseases based on wide-field retinal imaging data.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "42127146": {
+      "title": "Quantitative genetic analysis of respiratory function and related traits in Bulldogs, French Bulldogs and Pugs.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "42127888": {
+      "title": "Clinicopathologic characteristics and genomic profiling of HER2-low advanced gastric or gastroesophageal junction cancer.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "42120542": {
+      "title": "EMQN Best Practice Guidelines for Genetic Testing and Reporting in RYR1-related disorders.",
+      "reported_at": "2026-05-14T22:25:05.544119"
+    },
+    "41930855": {
+      "title": "Invasive lobular and ductal breast cancers: a systematic review and metanalysis in association with BRCA1/2 mutation status.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42118569": {
+      "title": "Germline genetic testing among patients with pancreatic adenocarcinoma: A Pancreatic Cancer Action Network patient survey.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42135054": {
+      "title": "Updated ENIGMA recommendations for reporting germline variants in cancer susceptibility genes and their translation into twenty languages.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "41962211": {
+      "title": "Implementing a molecular prescreening strategy for tumors without public NGS access in a cancer center network: Results from the PREICO project.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42133182": {
+      "title": "Impact of BRCA1/2 pathogenic variants on ipsilateral breast tumor recurrence and prognosis following breast-conserving surgery.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "41935492": {
+      "title": "A non-randomized phase 2 trial of pembrolizumab in untreated patients with carcinoma of unknown primary site.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42125877": {
+      "title": "Clinical and Genetic Characterization of Constitutional MLH1 Promoter Hypermethylation: Implications for Lynch Syndrome Diagnosis.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "41686853": {
+      "title": "Integrated Germline and Somatic Molecular Profiling to Detect Cancer Predisposition Has a High Clinical Impact in Poor-Prognosis Pediatric Cancer.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42126713": {
+      "title": "Association between breast cancer, pancreatic cancer, and melanoma in a CDKN2A variant common in the Hispanic population.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "41746190": {
+      "title": "Characterizing Longitudinal Molecular Changes in ctDNA in Patients with Metastatic Castration-Resistant Prostate Cancer.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42126206": {
+      "title": "Mismatch Repair-Proficient Colorectal Cancer can evade Immune Surveillance Through an Intrinsic Suppressive Program.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42100494": {
+      "title": "Variant Curation of the Largest Compendium of <i>FOXL2</i> Coding and Noncoding Sequence and Structural Variants in BPES.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "41921366": {
+      "title": "Denosumab is associated with longer real-world progression-free survival in BRCA1/2-mutated HR+ /HER2 - breast cancer patients with bone metastases receiving CDK4/6 inhibitors: A multicenter Italian study.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42120995": {
+      "title": "Renal cell carcinoma risk among individuals heterozygous for fumarate hydratase variants: further insights into genotype-phenotype correlations.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42092052": {
+      "title": "Facing suffering honestly: On severity, utility, and the public good in reproductive genetic carrier screening.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42129300": {
+      "title": "High-throughput generation of patient-derived cancer stem cells for precision medicine using a microwell-chip platform.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42091970": {
+      "title": "Genetic susceptibility and gene-environment interactions in gastric cancer among ethnic populations of Northeast India.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42129295": {
+      "title": "Follow-up, cancer risk and mortality in Peutz-Jeghers syndrome: Data from the PRED-IdF network.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42129307": {
+      "title": "Circadian engineering of in vivo CAR T cell therapy for precision oncology.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42120423": {
+      "title": "E-cadherin inactivation shapes tumor microenvironment specificities in invasive lobular breast cancer.",
+      "reported_at": "2026-05-15T13:14:24.851868"
+    },
+    "42105215": {
+      "title": "IDAP: An integrated literature- and knowledge-graph-driven evidence prioritization pipeline for precision oncology.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42102112": {
+      "title": "Targeted analysis of KRAS and CREBBP mutations uncovers a potential population-specific signature in thai patients with liver fluke-associated cholangiocarcinoma.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42114979": {
+      "title": "Landscape screening identifies the lactate-modifying enzyme AARS2 as a master regulator and therapeutic target in hepatocellular carcinoma.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42132994": {
+      "title": "Impaired glucose tolerance in women with BRCA1 versus BRCA2 pathogenic or likely pathogenic variants: Results from a prospective cohort study.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "41578974": {
+      "title": "The multiple roles of the disordered protein CCDC6 in cancer development.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "41980356": {
+      "title": "Efficacy of targeted therapies for metastatic small bowel adenocarcinoma treatment: A retrospective study by AGEO.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "41770031": {
+      "title": "NSD1-Mediated PPARγ Methylation Enhances PTEN Activity to Suppress Glycolysis and Tumor Progression in Endometrial Cancer.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "41417462": {
+      "title": "Molecular and Clinical Characteristics of Patients with Non-Small Cell Lung Cancer Harboring KRAS G12V Mutations.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42113346": {
+      "title": "Familial risks in prostate cancer between brothers and half-brothers as clues to germline genetic and environmental causes.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42133301": {
+      "title": "Temporal Trends in Lung Cancer Cases Diagnosed at Early Stage.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "41928979": {
+      "title": "Pan-cancer proteogenomic interrogation of the Ubiquitin Proteasome System.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "41950572": {
+      "title": "From clusters to clinic: An 8-gene signature combined with mucinous component stratifies benefit of anti-CTLA-4 addition to anti-PD-1 in dMMR/MSI-H metastatic colorectal cancer.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42113851": {
+      "title": "Systematic identification of pan-cancer single-gene expression biomarkers in drug high-throughput screens.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42089434": {
+      "title": "Prognostic impact of ASXL1 mutations in acute myeloid leukemia treated with lower intensity therapy.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42085479": {
+      "title": "FourierDrug: a domain generalization framework for robust drug response prediction via frequency-space asymmetric attention.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "41661672": {
+      "title": "FASN Inhibition Enhances the Efficacy of Chemotherapy in Colorectal Cancer by Inhibiting the DNA Damage Response.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42129962": {
+      "title": "Cancer Risk in Marfan Syndrome: A Swedish Population-Based Cohort Study.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42135430": {
+      "title": "Tumour location and mismatch repair status impact gene expression profiles associated with lymph node metastases in T1 colon cancers.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "41544035": {
+      "title": "Type- and age-specific natural history of high-risk human papillomavirus infections in healthy women: A prospective cohort study in China.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42133209": {
+      "title": "Personalized risk estimates of advanced neoplasia development in individuals with a family history of colorectal cancer.",
+      "reported_at": "2026-05-15T22:23:55.504917"
+    },
+    "42141340": {
+      "title": "Biomarker-Driven Management of Nonmetastatic GEJ Adenocarcinoma.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42140194": {
+      "title": "Artificial intelligence-driven integration of multi-biofluid omics and clinical phenotype enables stratification of endometrial cancer.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42141746": {
+      "title": "Molecular Tumor Boards in Malignant Melanoma: Uncovering Challenges and Opportunities in a Bicenter Retrospective Analysis in Germany.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42141079": {
+      "title": "Toward scalable early cancer detection: evaluating EHR-based predictive models against traditional screening criteria.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42139355": {
+      "title": "<i>TP53</i>-mutant AML with ribosomal gene loss exhibits impaired protein translation and sensitivity to HSP90 inhibition.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42140952": {
+      "title": "Arid3b suppresses CD8 + T cell infiltration and function in microsatellite-stable colorectal cancer via Runx3.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42095609": {
+      "title": "Clinical and molecular landscape of surgically resected early onset pancreatic cancer.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42141029": {
+      "title": "Cervi-LLM for real time colposcopy lesion detection and interpretable diagnosis.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42129183": {
+      "title": "Greatwall depletion from Xenopus oocytes reveals a key role of the cyclin B/CDK1-PP2A-B55 balance in the coordination of meiotic events.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "41916312": {
+      "title": "A convergent uPAR-positive tumor ecosystem creates broad vulnerability to CAR T cell therapy.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42139816": {
+      "title": "Endometrial cancer: A Society of Gynecologic Oncology evidence-based review and recommendations, part II.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "41895280": {
+      "title": "Cancer type-specific variation in patterns of driver alterations across 50,000 tumors.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42113855": {
+      "title": "Single-cell transcriptomics of leukocyte-enriched human milk reveals a highly diverse and adapted myeloid compartment.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42120403": {
+      "title": "A divergent Plasmodium NEK4 acts as a key regulator driving the early events of meiosis.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42135490": {
+      "title": "Temporal trends of clinicopathological features, therapeutic modalities, and survival outcomes in pseudo-age-related colorectal cancer.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42103785": {
+      "title": "Cell-free DNA size deconvolution resolves nucleosomal origins and reveals tumor-associated fragmentomic alterations.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "41980777": {
+      "title": "Putting polygenic scores in context: How intersectional factors affect relative and absolute genetic risk.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42098121": {
+      "title": "Glycosite mapping and in situ mass spectrometry imaging of MUC2 glycopeptides via on-slide mucinase digestion.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42094486": {
+      "title": "SPPIDER-seq: Sequence-based partner-aware predictor of protein-protein interaction sites.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42115289": {
+      "title": "Determinants of cervical cancer screening and HPV vaccination among female medical practitioners in Punjab, India.",
+      "reported_at": "2026-05-16T22:20:13.969388"
+    },
+    "42142432": {
+      "title": "Performance of FIT-based colorectal cancer screening in Denmark from 2014 to 2022.",
+      "reported_at": "2026-05-17T22:18:53.050343"
+    },
+    "42120584": {
+      "title": "Anoctamin 5 promotes colon cancer progression and predicts poor prognosis.",
+      "reported_at": "2026-05-17T22:18:53.050343"
+    },
+    "42120439": {
+      "title": "Irisin modulates the transcriptomic profile of porcine anterior pituitary cells isolated from gilts on days 15-16 of pregnancy.",
+      "reported_at": "2026-05-17T22:18:53.050343"
+    },
+    "41946179": {
+      "title": "Rising early-onset colorectal cancer in Switzerland despite declining incidence in older adults: A nationwide population-based study, 1980-2021.",
+      "reported_at": "2026-05-17T22:18:53.050343"
+    },
+    "42108266": {
+      "title": "Synergetic anticancer activity of psidium guajava-mediated palladium nanoparticles via apoptosis induction and metastasis suppression in osteosarcoma cells.",
+      "reported_at": "2026-05-17T22:18:53.050343"
+    },
+    "42106475": {
+      "title": "New strategies for mitigating undesirable odors connected to geosmin and 2-MIB in minced fish muscle: a model system approach.",
+      "reported_at": "2026-05-17T22:18:53.050343"
+    },
+    "42106441": {
+      "title": "Photon absorption remote sensing (PARS): comprehensive absorption imaging enabling label-free biomolecule characterization and mapping.",
+      "reported_at": "2026-05-17T22:18:53.050343"
+    },
+    "41916322": {
+      "title": "Ultra-rare functional variants reveal early-onset breast cancer risk genes and pathways in the UK Biobank and All of Us Research Program.",
+      "reported_at": "2026-05-17T22:18:53.050343"
+    },
+    "42147812": {
+      "title": "Expanding the Genotypic Landscape of Congenital Stationary Night Blindness in an Ethnically Diverse Canadian Population.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42147816": {
+      "title": "<i>MLH1</i> Constitutional Epimutation Screening Requires Highly Sensitive Assays to Identify Lynch Syndrome Patients With Very Low Mosaic Methylation Level.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42147807": {
+      "title": "Secretory Lysosome-Related Gene Signature Defines the Immune Microenvironment and Identifies RGS2 as a Prometastatic Factor in Hepatocellular Carcinoma.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42148883": {
+      "title": "Comprehensive Genomic and Transcriptomic Characterization of MTAP Loss Across Advanced Solid Tumors.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42146343": {
+      "title": "Improve the Efficacy of B7-H3-Targeting Antibody-Drug Conjugate DS-7300a in TP53-deficient Tumors by Inducing Ferroptosis.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42146619": {
+      "title": "Weak supervision of H&E slides reveals systems-level biology and functional states that govern therapeutic resistance.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42146705": {
+      "title": "Decoding the <i>BRCA2</i> reversion principles underlying PARP inhibitor resistance.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42147810": {
+      "title": "Integrative Mendelian Randomization and Multiomics Analysis Identifies CAF-Derived Complement Factor B as a Prognostic Biomarker and Therapeutic Vulnerability in Breast Cancer.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42146426": {
+      "title": "Sequence context and methylation interact to shape germline mutation rate variation at CpG sites.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42146504": {
+      "title": "USP1 inhibition promotes RAD18-dependent PCNA degradation and BRCA1 synthetic lethality.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42146678": {
+      "title": "Selective Elimination of TP53 Mutant Cells by Transcript-Activated Chromatin Shredding.",
+      "reported_at": "2026-05-18T22:22:53.613696"
+    },
+    "42153369": {
+      "title": "Genetic findings and healthcare utilization among individuals undergoing population genomic screening for actionable hereditary disorders.",
+      "reported_at": "2026-05-19T22:27:27.885313"
+    },
+    "42149699": {
+      "title": "Biomarker-Based Eligibility for Lung Cancer Screening: Validation of the Protein-Based INTEGRAL-Risk Model.",
+      "reported_at": "2026-05-19T22:27:27.885313"
+    },
+    "42151561": {
+      "title": "Clinico-molecular predictors of durable response to immune checkpoint inhibitors (ICI) in metastatic cervical cancer (mCC).",
+      "reported_at": "2026-05-19T22:27:27.885313"
+    },
+    "42151259": {
+      "title": "Comparative analysis and correlation of cancer hotspot proteins and cell markers in tumor-normal adjacent breast and kidney samples using RPPA and LC-MS.",
+      "reported_at": "2026-05-19T22:27:27.885313"
+    },
+    "42156170": {
+      "title": "MAIT cell enrichment in Lynch syndrome is associated with immune surveillance and colorectal cancer risk.",
+      "reported_at": "2026-05-20T22:33:09.006925"
+    },
+    "42156413": {
+      "title": "Integrated genomic analyses identify oncogenic pathway interplay in hepatocarcinogenesis defining specific molecular subtypes.",
+      "reported_at": "2026-05-20T22:33:09.006925"
+    },
+    "42013851": {
+      "title": "A 15-layer multi-omics analysis of gastric cancer ecotypes provides therapeutic insights.",
+      "reported_at": "2026-05-20T22:33:09.006925"
+    },
+    "42156493": {
+      "title": "Oncolytic vaccinia virus JX-594 shows subtype-specific activity and candidate biomarkers in gastric cancer cell lines.",
+      "reported_at": "2026-05-20T22:33:09.006925"
+    },
+    "42155564": {
+      "title": "A review of reviews of the prevalence of molecular biomarkers in vulvar cancer and their implications for prognosis refinement and treatment strategies.",
+      "reported_at": "2026-05-20T22:33:09.006925"
+    },
+    "42146449": {
+      "title": "Solid Tumors Pan Cancer Transcriptome: Tissue/Cancer specific expression groups at the Isoform-Level.",
+      "reported_at": "2026-05-20T22:33:09.006925"
+    },
+    "42155515": {
+      "title": "Improving Racial Disparities in Lung Cancer Screening Uptake: A Mixed-Methods Study of a Centralized Program.",
+      "reported_at": "2026-05-20T22:33:09.006925"
+    },
+    "42158468": {
+      "title": "Integrative Genomic and Functional Analysis Reveals NF1 Loss as a Modifier of DNA Damage and Replication Stress Responses in Ovarian Cancer.",
+      "reported_at": "2026-05-20T22:33:09.006925"
+    },
+    "42159804": {
+      "title": "Why patient organizations are important to improve care for people with Lynch syndrome.",
+      "reported_at": "2026-05-20T22:33:09.006925"
+    },
+    "42162371": {
+      "title": "Pathogenic germline variations and cancer risks in pediatric patients referred for genetic testing.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42166158": {
+      "title": "Prostate Cancer Mortality After Relabeling Low-Grade Prostate Cancer as Precancerous.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42161910": {
+      "title": "Interpretable deep learning framework for mapping E3-substrate binding interfaces.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42162195": {
+      "title": "Deep learning for predicting patient drug response by transferring gene-level and cell-level knowledge to tumors.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42161402": {
+      "title": "Aberrant p53 fuels macrophage immunoregulatory polarization and refractory clinical outcome in urothelial carcinoma.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42166060": {
+      "title": "ASO Special Article: Proceedings of the Inaugural Joint US-India Cancer Dialogue: Accelerating Collaboration to Advance Cancer Prevention, Early Detection, Treatment, and Care.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42165229": {
+      "title": "The Impact of Breast Cancer Polygenic Risk Score Disclosure on Decisional Conflict Around Risk-Reducing Mastectomy in Women with Pathogenic BRCA1/2 Variants.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42161976": {
+      "title": "A non-invasive end-to-end intelligent assistance system for breast ultrasound.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42161950": {
+      "title": "Multifaceted roles of PDS5B in RAD51-dependent homology-directed DNA repair and replication fork protection.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42160295": {
+      "title": "Digital motivation for cervical cancer screening: A quasi-experimental trial of the SeDAR Video among middle adulthood Malaysian women.",
+      "reported_at": "2026-05-21T22:33:12.420966"
+    },
+    "42171906": {
+      "title": "Genotypic and phenotypic characteristics of germline TP53 variant carriers: experience from two cancer genetic counseling units.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42166900": {
+      "title": "Uptake of risk-reducing medical interventions among female BRCA1/2 pathogenic variant carriers: A population-based study in British Columbia.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42168351": {
+      "title": "Towards responsible genome-wide screening: normative and stakeholder considerations.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42167248": {
+      "title": "Biomarker study of pembrolizumab in patients with advanced rare cancers.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42168203": {
+      "title": "Distinct genomic and immunologic tumor evolution in germline TP53-driven breast cancers.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42166442": {
+      "title": "Molecular and structural reprogramming of gastric cancer revealed by systems-level transcriptomic analysis.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42167123": {
+      "title": "Geographic and genetic diversity in gallbladder cancer mutation profiles: insights from a worldwide exome analysis.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42166422": {
+      "title": "Disparities in prostate cancer screening practices among general practitioners and urologists (PROSHADE study): A cross-sectional study.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42167906": {
+      "title": "The Natural Quassinoid Brusatol Enhances Venetoclax Efficacy and Overcomes Resistance in Myeloid Leukemias.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42168473": {
+      "title": "Cross-modal semantic scene completion for complex urban traffic scenes with reachability geometric attention.",
+      "reported_at": "2026-05-22T22:25:20.906754"
+    },
+    "42172311": {
+      "title": "Single-nucleotide variant profiling in liquid biopsy with RECO-Cas.",
+      "reported_at": "2026-05-23T22:16:56.903913"
+    },
+    "42174055": {
+      "title": "Assessing the role of community pharmacists in early skin cancer detection: a real-world study.",
+      "reported_at": "2026-05-23T22:16:56.903913"
+    },
+    "42177353": {
+      "title": "Semantic embedding of variant effect annotations enables rapid and accurate pathogenicity prediction with VUS.Life.",
+      "reported_at": "2026-05-24T22:19:05.623702"
+    },
+    "42177174": {
+      "title": "Explainable machine learning identifies features and thresholds predictive of immunotherapy response.",
+      "reported_at": "2026-05-24T22:19:05.623702"
+    },
+    "42177635": {
+      "title": "Tumor-Derived Extracellular Vesicles in Plasma for Predicting Anti-PD-1 Antibody Efficacy in Non-Small Cell Lung Cancer.",
+      "reported_at": "2026-05-24T22:19:05.623702"
+    },
+    "42178223": {
+      "title": "Toxicity-over-time analysis of anti-EGFR-based maintenance versus stop&go in left-sided, RAS/BRAF wild-type metastatic colorectal cancer.",
+      "reported_at": "2026-05-25T22:23:35.015548"
+    },
+    "42178318": {
+      "title": "EpCAM-targeted ZIF-8 nanocarriers for enhanced doxorubicin delivery in cancer therapy: a promising approach for tumor-specific drug release.",
+      "reported_at": "2026-05-25T22:23:35.015548"
+    },
+    "42182296": {
+      "title": "Comprehensive Analysis Reveals Adaptive DNA Repair and Replication Stress Networks in Genomically Unstable Breast Cancer.",
+      "reported_at": "2026-05-25T22:23:35.015548"
+    },
+    "42182135": {
+      "title": "A sibling study of variation in parental mutation rates.",
+      "reported_at": "2026-05-25T22:23:35.015548"
+    },
+    "42182498": {
+      "title": "Neutral Sphingomyelinase-2 Restrains TAZ to Suppress Breast Tumor Growth.",
+      "reported_at": "2026-05-25T22:23:35.015548"
+    },
+    "42283722": {
+      "title": "The Biology of Hypomorphic TP53 Variants and Implications for Clinical Management.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42586985": {
+      "title": "Population-based genomic detection of childhood cancer predisposition using newborn dried blood spots.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42276049": {
+      "title": "Spatial biomarker discovery via interpretable semantic learning in histopathology.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42570956": {
+      "title": "Characterization of putative germline pathogenic variants in 27 candidate cancer-predisposing genes in 813 cats using a feline-specific multiplex targeted sequencing.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42597893": {
+      "title": "Mutation Severity of <i>FBXO43</i> Determines Spermatogenic Outcome and Informs Precision ART Strategies.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "41954240": {
+      "title": "Germline Mutation Landscape of Neuroendocrine Tumors in the Chinese Population.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42577675": {
+      "title": "Molecular Characterization of <i>TSC1</i> and <i>TSC2</i> Variants in a Greek Cohort of Tuberous Sclerosis Complex Patients.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42575119": {
+      "title": "A blood-based test for detection of advanced adenomas and colorectal cancer (DENEB): a multicentre diagnostic accuracy study.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "41952250": {
+      "title": "Sensitive Period Analysis of Adulthood BMI and Cancer Risk: An Individual Participant Data Meta-Analysis of Over 720,000 Participants in the ABACus 2 Consortium.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42562418": {
+      "title": "Impact of surveillance colonoscopy on colorectal cancer incidence and mortality in Lynch syndrome: a national observational cohort study of patients in the English NHS 2010-2022.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42365851": {
+      "title": "Computer-aided detection in surveillance colonoscopy: a population-based randomized trial.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42584742": {
+      "title": "Real-world clinical outcomes of patients with early-stage TNBC and BRCAm who were treated with adjuvant capecitabine in the United States.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42580099": {
+      "title": "Chemotherapy type and survival in young BRCA1/2 carriers with HER2-negative early breast cancer.",
+      "reported_at": "2026-09-18T12:57:55.749499"
+    },
+    "42567118": {
+      "title": "Integrated expression profiling of trophoblast cell-surface antigen 2 (TROP2), folate receptor alpha (FRα), and human epidermal growth factor receptor 2 (HER2) in endometrial Cancer across molecular classes, genomic alterations, and histologic subtypes.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42498520": {
+      "title": "Integrated D4Z4 structural, epigenetic and exome-based evaluation of facioscapulohumeral muscular dystrophy in a tertiary referral cohort from Türkiye.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42214005": {
+      "title": "Alcohol-Induced Metabolic Stress Sensed by m6A-Modified ChREBP Drives Immune Evasion in Esophageal Carcinogenesis.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42385124": {
+      "title": "Phase I/II Study of Sonrotoclax (BGB-11417) Monotherapy in Patients With Mantle Cell Lymphoma Previously Treated With Anti-CD20 Therapy and a Bruton Tyrosine Kinase Inhibitor.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42567897": {
+      "title": "The effect of cigar, cigarillo and pipe smoking on lung cancer risk and screening eligibility.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42497868": {
+      "title": "Allele frequency trajectories across age groups reveal ongoing natural selection shaping disease susceptibility.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "42276047": {
+      "title": "Mapping cell type-resolved transcriptomic profiles to patient survival in pancreatic cancer.",
+      "reported_at": "2026-08-16T01:55:04.331766"
+    },
+    "41944777": {
+      "title": "Risk stratification and anal cancer screening in immunocompetent women with genital HPV: Value of multicentric HSIL and performance of HPV-based screening.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42572363": {
+      "title": "Effect of Implementing Population-Based Prostate-Specific Antigen Screening on Testing Rates and Prostate Cancer Overdiagnosis in England: A Statistical Modelling Study.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42583753": {
+      "title": "Rapid Genome Sequencing Identifies Treatable Conditions in Non-Intensive Care Unit Hospitalized Children.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42580756": {
+      "title": "Comparative Efficacy Of Different Computer-Aided Detection Products in Colonoscopy: A Network Meta-Analysis Of Randomized Controlled Trials.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42566728": {
+      "title": "Contemporary Management of Relapsed or Refractory Chronic Lymphocytic Leukemia.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42593222": {
+      "title": "Somatic alterations in TP53, PIK3CA, and CCND1 reveal exposure-driven patterns in oral and oropharyngeal tumors.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42550899": {
+      "title": "High-throughput deformability-based microfluidic sorting reveals metastatic cancer subpopulations.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "41957948": {
+      "title": "At what age should people with obesity start colorectal cancer screening?",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42555732": {
+      "title": "Development of a structurally distinct TopBP1 inhibitor that enhances PARP blockade and reverses osimertinib resistance.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42442706": {
+      "title": "Computer-aided quality assurance versus standard colonoscopy: a systematic review and meta-analysis of randomized controlled trials.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42560689": {
+      "title": "Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children: The IRMA Randomized Clinical Trial.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42442367": {
+      "title": "Landscape of parental postzygotic mutations across >11,000 rare disease trios.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42599153": {
+      "title": "Clinical, genomic, and spatial transcriptomic features of pancreatic adenosquamous carcinoma support subtype-specific therapeutic strategies.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42574003": {
+      "title": "Health Communication and Stepped Reminders Interventions for Lung Cancer Screening: A Randomized Clinical Trial.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42562001": {
+      "title": "Technology-Enabled Patient and Physician Activation to Enhance Skin Cancer Screening After HCT: A Randomized Controlled Trial.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42574006": {
+      "title": "Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial.",
+      "reported_at": "2026-09-18T12:57:55.749499"
+    },
+    "42546199": {
+      "title": "CIP2A-TOPBP1 complex and PP2A dynamically regulate Polθ recruitment and phosphorylation at mitotic DNA double-strand breaks.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42189874": {
+      "title": "A First-in-Pediatric Study of ALRN-6924, a Novel Stapled-Peptide Dual MDM2/MDMX Inhibitor, for Children with Advanced Hematologic and Solid Malignancies.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42570967": {
+      "title": "Exploring PDLIM2 as a prognostic biomarker and therapeutic target in lung adenocarcinoma.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42561914": {
+      "title": "Human acrocentric chromosome short-arm de novo mutation and recombination.",
+      "reported_at": "2026-08-16T22:04:01.677558"
+    },
+    "42607047": {
+      "title": "Decision coaching for healthy women with BRCA1/2 pathogenic variants and open family planning: Impact on decisional conflict and decision status: Subgroup analyses from a randomized controlled trial.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42606651": {
+      "title": "Multidisciplinary Management Considerations in Invasive Lobular Breast Cancer: It Isn't Just Ductal.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42606655": {
+      "title": "Neoadjuvant Immunotherapy in Localized dMMR/MSI-H Colon Cancer: A Systematic Review of Pathological Response and Surgical Outcomes.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42606323": {
+      "title": "Baseline circulating and tumor γδ T cells and early circulating CD8⁺PD1⁺ expansion predict response to Atezolizumab-bevacizumab in HCC.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42585240": {
+      "title": "A comparative study of CDO1 promoter methylation in gastric cancer and H. pylori-associated chronic gastritis: Implications for diagnostic performance.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42581048": {
+      "title": "A ubiquitin chain-feeding mechanism for BRCA1-A.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42601667": {
+      "title": "Ionizing Radiation and Ultraviolet Light Irradiation-Associated DNA Damage Increasing Genomic Instability Risk.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42585341": {
+      "title": "MALT1 alternative splicing-A molecular rheostat for balancing immune activation and homeostasis.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42581301": {
+      "title": "Mechanism of K63-linked polyubiquitin recognition and cleavage by the BRCA1-A complex.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "41957967": {
+      "title": "Nationwide Study on the Cervical Cancer Screening Pathway in Estonia.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42314698": {
+      "title": "Colonoscopy complications and associated costs and mortality in a Swedish colorectal cancer screening program.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42592012": {
+      "title": "Integrated Mutation Profiling and Prognostic Genomic Signature in Pediatric Testicular and Ovarian Germ Cell Tumors.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42574050": {
+      "title": "DNMT3B plays antagonistic roles with SMARCB1 and is a targetable vulnerability in rhabdoid tumors.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42580755": {
+      "title": "Cost-effectiveness and environmental impact of artificial intelligence-assisted colonoscopy with the resect-and-discard strategy: a microsimulation study.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42584751": {
+      "title": "Determinants of Non-Receipt of Guideline-Concordant Treatment in Pancreatic Cancer: A Classification Tree Analysis.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42584510": {
+      "title": "When immunotherapy hurts: neoadjuvant PD-1 inhibitors increase opioid use after mastectomy with reconstruction.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42575039": {
+      "title": "Maintenance rucaparib after first-line platinum-based chemotherapy in HER2-negative advanced oesophagogastric adenocarcinoma: results from the PLATFORM study.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42566402": {
+      "title": "Identification of senescence-related genes in diagnosing idiopathic pulmonary fibrosis via integrating bioinformatics analysis and machine learning.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42599849": {
+      "title": "Good DNA- and sufficient RNA integrity in formalin-free paraffin-embedded tissues.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42574395": {
+      "title": "Transportation-related factors, cancer screening, and stage at diagnosis: A scoping review.",
+      "reported_at": "2026-08-17T22:06:00.945951"
+    },
+    "42607671": {
+      "title": "Shared inheritance reveals landscape of somatic and germline cancer risk in TP53.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42608469": {
+      "title": "Genome sequencing reveals high diagnostic yield in children with severe sporadic developmental language disorder.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42608132": {
+      "title": "Dihydropyrimidine dehydrogenase modulates immune response to checkpoint inhibition in mismatch repair deficient/microsatellite instability-high colorectal cancer.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42611962": {
+      "title": "Longitudinal Phenotyping of Circulating Tumor Cells using a Scalable Deep Learning Framework.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42609124": {
+      "title": "Global Real-World Outcomes of Olaparib in Metastatic Castration-Resistant Prostate Cancer Patients With Homologous Recombination Repair Alterations.",
+      "reported_at": "2026-08-18T22:04:14.730129"
+    },
+    "42594138": {
+      "title": "Network pharmacology and molecular simulation study on the multi-target gene regulatory mechanism of Isatis indigotica against hepatic inflammation.",
+      "reported_at": "2026-08-18T22:04:14.730129"
+    },
+    "42585238": {
+      "title": "CAPoxy: A feasibility study to investigate multispectral imaging in nailfold capillaroscopy.",
+      "reported_at": "2026-08-18T22:04:14.730129"
+    },
+    "42574468": {
+      "title": "Perceptions and practices among students, parents, and teachers of the Human Papillomavirus (HPV) Vaccination: A pilot feasibility study from Rural Kerala.",
+      "reported_at": "2026-08-18T22:04:14.730129"
+    },
+    "42615210": {
+      "title": "Current Status of Genetic Testing and Mosaic Variant Assessment in Somatic Overgrowth and Vascular Anomalies: Insights from the Cancer Genomics Consortium Working Group.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42612796": {
+      "title": "Therapeutic targeting of RAS-mediated resistance in oncogene-driven lung cancer.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42614061": {
+      "title": "Spatially Resolved Metabolomics of Optimal Cutting Temperature (OCT) Compound-Embedded Tumors.",
+      "reported_at": "2026-08-19T22:05:25.395132"
+    },
+    "42612882": {
+      "title": "WNT-driven immune evasion promotes malignant transformation of BRAF-mutant colorectal cancer.",
+      "reported_at": "2026-08-19T22:05:25.395132"
+    },
+    "42556344": {
+      "title": "Corpora amylacea profiling reveals disease stage and brain region-specific alterations in glycogen metabolism in Alzheimer's disease patient brains.",
+      "reported_at": "2026-08-19T22:05:25.395132"
+    },
+    "42613360": {
+      "title": "Personal and family application of cancer prevention practices among physicians.",
+      "reported_at": "2026-08-19T22:05:25.395132"
+    },
+    "42616702": {
+      "title": "Healthcare cost literacy in the united states: Cross-sectional estimates from a representative national sample.",
+      "reported_at": "2026-08-19T22:05:25.395132"
+    },
+    "42539254": {
+      "title": "scOPE identifies which driver-associated expression programs transfer from bulk tumors to single cells.",
+      "reported_at": "2026-08-19T22:05:25.395132"
+    },
+    "42621862": {
+      "title": "Identification of Novel Pathogenic Variants in Familial Adenomatous Polyposis Through Whole Genome Sequencing.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42623373": {
+      "title": "Modelling breeding strategies against genetic defects in a vulnerable cattle breed.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42621205": {
+      "title": "Building a genomics-capable cancer workforce: a competency-based framework for education and training in precision oncology.",
+      "reported_at": "2026-08-20T22:05:28.943883"
+    },
+    "42617827": {
+      "title": "Effectiveness of theory-based WhatsApp chatbot outreach in colorectal cancer screening uptake: a randomized controlled trial.",
+      "reported_at": "2026-08-20T22:05:28.943883"
+    },
+    "42623387": {
+      "title": "Online game player churn prediction based on multiplex social influence through network embedding.",
+      "reported_at": "2026-08-20T22:05:28.943883"
+    },
+    "42619620": {
+      "title": "Proportion of Screen-Detected Gastrointestinal Cancers From the National Cancer Registry in Japan.",
+      "reported_at": "2026-08-20T22:05:28.943883"
+    },
+    "42626853": {
+      "title": "Short-term outcomes of a randomized, mixed-methods trial to improve hereditary cancer test results disclosure and follow-up communication with family.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42623835": {
+      "title": "Expression patterns of potential targets for antibody-directed therapy in metastatic castration-resistant prostate cancer patients.",
+      "reported_at": "2026-08-21T22:04:25.371337"
+    },
+    "42627885": {
+      "title": "High-spatiotemporal resolution deuterium metabolic imaging enables in vivo phenotyping of intra- and intertumoral heterogeneity.",
+      "reported_at": "2026-08-21T22:04:25.371337"
+    },
+    "42626030": {
+      "title": "Mutation-Immune Crosstalk Contextualizes CAF-Associated ARPC1A Programs and Cisplatin Response in Gastric Cancer.",
+      "reported_at": "2026-08-21T22:04:25.371337"
+    },
+    "42628524": {
+      "title": "Proteo-genomics-guided interpretation of somatic mutations in cancer genomes.",
+      "reported_at": "2026-08-22T12:08:16.068039"
+    },
+    "42633405": {
+      "title": "Bone marrow failure syndromes across the age spectrum: diagnostic and therapeutic principles.",
+      "reported_at": "2026-08-23T22:04:02.694456"
+    },
+    "42633606": {
+      "title": "Anal cancer burden among people with HIV across US states, DC, and major metro areas.",
+      "reported_at": "2026-08-23T22:04:02.694456"
+    },
+    "42631463": {
+      "title": "Urinary and Faecal Amino-Acids as Biomarkers for Colorectal Neoplasia in Lynch Syndrome-A Prospective Longitudinal Study.",
+      "reported_at": "2026-08-23T22:04:02.694456"
+    },
+    "42633600": {
+      "title": "Clonal evolution from primary to locally recurrent rectal cancer reveals recurrence-acquired potentially actionable alterations in treatment-naïve tumors.",
+      "reported_at": "2026-08-23T22:04:02.694456"
+    },
+    "42635031": {
+      "title": "Patient and primary care clinician perspectives on polygenic risk scores for prostate cancer screening: a national qualitative study.",
+      "reported_at": "2026-08-24T22:05:30.245561"
+    },
+    "42637935": {
+      "title": "Citywide implementation of a rapid whole-genome sequencing program for critically ill pediatric patients.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42640174": {
+      "title": "Elucidating PI3K/AKT/PTEN Pathway Alterations at Single-Cell Level in CTCs From HR+/HER2- Metastatic Breast Cancer.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42636977": {
+      "title": "Sustained benefit of adjuvant olaparib in women with germline BRCA1- and BRCA2- -associated high-risk HER2-negative early breast cancer: Updated results from the OlympiA phase III trial.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42639750": {
+      "title": "The Fetal Fentanyl Syndrome: Additional evidence in support of a new human teratogen.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42636235": {
+      "title": "Clinical outcomes of 1PN- and 3PN-derived blastocysts in the absence of transferable 2PN embryos: A retrospective analysis.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42636242": {
+      "title": "Exome-based cancer driver gene comprehensive testing can provide a genetic diagnosis for individuals with triple-negative breast cancer.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42636226": {
+      "title": "Driver mutation impact in Chinese hepatocellular carcinoma.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42636811": {
+      "title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42640802": {
+      "title": "Loss of neuronal population organization links pathology to behavior in a model of Alzheimer's disease.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42640468": {
+      "title": "TIMSImaging: An open and interoperable workflow for trapped ion mobility mass spectrometry imaging data processing and visualization.",
+      "reported_at": "2026-08-25T22:12:34.903885"
+    },
+    "42644306": {
+      "title": "Cost-effectiveness of BRCA1/BRCA2 Variant Reclassification and Recontact for Hereditary Breast and Ovarian Cancer in the United States.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42642214": {
+      "title": "Risk of breast cancer after ovarian cancer in germline <i>BRCA1/2</i> heterozygotes.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42248668": {
+      "title": "Identification of a novel intergenic <i>EPCAM-MSH2</i> deletion causing EPCAM-associated Lynch syndrome by long-read nanopore sequencing.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42644240": {
+      "title": "Uncovering the Genetic Landscape of Pediatric Hearing Loss Along the Texas-Mexico Border.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42641600": {
+      "title": "Distinct mutational landscapes for germline and somatic cancer variants in forty tumor suppressor genes.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42641601": {
+      "title": "RNA splicing evidence enables robust classification of BRCA1 exon 18 variants: Results from the ENIGMA consortium.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42341617": {
+      "title": "Spectrum of double heterozygosity in individuals diagnosed with hereditary breast and ovarian cancer.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42642213": {
+      "title": "Rapid minigene workflow for functional reclassification of splicing variants in hereditary cancer diagnostics.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42642646": {
+      "title": "The role of DNA mismatch repair status in oesophagogastric cancer treated with perioperative chemotherapy: evidence from the MRC ST03 and OE05 trials.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42314360": {
+      "title": "Is cancer increasing in young adults in Spain? Incidence trends from the Spanish Network of Cancer Registries (REDECAN).",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42372634": {
+      "title": "Real-world experience of larotrectinib in children, adolescents and young adults with TRK fusion solid tumors: The SACHA-France experience.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42647616": {
+      "title": "Truthful visualizations for mass spectrometry imaging enable high-spatial-resolution interactive <i>m/z</i> mapping and exploration.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42320406": {
+      "title": "No prognostic role for FIGO grading in mismatch repair deficient endometrial carcinoma.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42644724": {
+      "title": "Neoadjuvant Botensilimab/Balstilimab for localized mismatch repair proficient and deficient colon cancer: Results of the NEST phase 2 clinical trial.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42341616": {
+      "title": "Profiling of desmoid tumors reveals frequent mutations in chromatin-remodeling genes and identifies an Immune-myogenic subtype.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42378958": {
+      "title": "Clinical urgency of incidental findings in the first year of the 4-IN-THE-LUNG-RUN lung cancer screening program.",
+      "reported_at": "2026-08-26T23:07:08.959853"
+    },
+    "42209212": {
+      "title": "Identification of Lynch syndrome among people newly diagnosed with endometrial cancer: a prospective audit.",
+      "reported_at": "2026-08-28T00:54:57.443978"
+    },
+    "42248667": {
+      "title": "PRS-BC<sub>313</sub> integration for tailored breast cancer prevention in female patients and their healthy relatives.",
+      "reported_at": "2026-08-28T00:54:57.443978"
+    },
+    "42209213": {
+      "title": "Biallelic pathogenic variants in <i>FLNB</i> are associated with paediatric steroid-resistant nephrotic syndrome via podocyte cytoskeletal dysfunction.",
+      "reported_at": "2026-08-28T00:54:57.443978"
+    },
+    "42649302": {
+      "title": "A binding-to-release strategy for targeted anticancer drug delivery.",
+      "reported_at": "2026-08-28T00:54:57.443978"
+    },
+    "42649371": {
+      "title": "Comprehensive overview of AI methodologies in nano-drug delivery Optimization and Design.",
+      "reported_at": "2026-08-28T00:54:57.443978"
+    },
+    "42649442": {
+      "title": "KRAS and TP53 Circulating Tumor DNA are Prognostic in Localized Pancreatic Cancer.",
+      "reported_at": "2026-08-28T00:54:57.443978"
+    },
+    "42658760": {
+      "title": "Genetic control of local mutation rates.",
+      "reported_at": "2026-08-28T00:54:57.443978"
+    },
+    "42661427": {
+      "title": "Identification of Copy Number Variants as a Suspected Cause of Cerebral Small Vessel Disease.",
+      "reported_at": "2026-08-28T22:27:58.847440"
+    },
+    "42664280": {
+      "title": "Programmed death-ligand 1 expression in gastric cancer by the combined positive score using the PD-L1 IHC 28-8 pharmDx test: a single institution's experience.",
+      "reported_at": "2026-08-28T22:27:58.847440"
+    },
+    "42659893": {
+      "title": "Timing of breast cancer diagnosis postpartum and survival in women with germline pathogenic variants.",
+      "reported_at": "2026-08-28T22:27:58.847440"
+    },
+    "42660820": {
+      "title": "Toward Objective Anal Cancer Screening: From Swab-Based Genome-Wide Methylation Marker Discovery to Novel Test Development.",
+      "reported_at": "2026-08-28T22:27:58.847440"
+    },
+    "42664240": {
+      "title": "Global patterns and demographic drivers of hearing loss attributable to otitis media, 1990-2023.",
+      "reported_at": "2026-08-28T22:27:58.847440"
+    },
+    "42664210": {
+      "title": "Phycocyanobilin: A potential bioactive compound from Arthrospira platensis targeting LYN protein associated with systemic lupus erythematosus.",
+      "reported_at": "2026-08-28T22:27:58.847440"
+    },
+    "42664955": {
+      "title": "Tumor-on-chip as a personalized platform for rapid drug testing in breast cancer.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42667452": {
+      "title": "The evolution of hereditary cancer genetic counselling: mainstreaming, service redesign and patient experience in Lynch syndrome.",
+      "reported_at": "2026-08-29T22:10:08.761379"
+    },
+    "42664749": {
+      "title": "Diagnostic regulatory pathways are an underrecognized bottleneck in precision oncology clinical trials: Real-world evidence across Europe.",
+      "reported_at": "2026-08-29T22:10:08.761379"
+    },
+    "42665943": {
+      "title": "High-Risk Human Papillomavirus Prevalence and Detection of Anal Intraepithelial Neoplasia in Women Undergoing Screening Colonoscopy: A Prospective Study.",
+      "reported_at": "2026-08-29T22:10:08.761379"
+    },
+    "42664614": {
+      "title": "Leveraging artificial intelligence in the early detection of ovarian cancer: Development and validation of a risk prediction model.",
+      "reported_at": "2026-08-29T22:10:08.761379"
+    },
+    "42001523": {
+      "title": "TNG961 Is a Selective Oral HBS1L Molecular Glue Degrader for the Treatment of FOCAD-Deleted Cancers.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42425127": {
+      "title": "Aspirin for cancer prevention in individuals with Lynch syndrome: first results from the CaPP3 multicentre, randomised, double-blind, non-inferiority trial.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42435282": {
+      "title": "Clinical utility of diagnosing Lynch syndrome in gynecologic oncology: a joint statement from four Japanese academic societies.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42201779": {
+      "title": "HRDetect in Tubo-ovarian Carcinoma: Stratification and Therapeutic Implications.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42008361": {
+      "title": "Genomic Evolution of Myeloproliferative Neoplasms and Therapy-Associated Mutagenesis.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42678928": {
+      "title": "Long-Read Haplotype Phasing Resolves Allelic Configuration as a Missing Layer of Precision Oncology.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "41460162": {
+      "title": "Organ-sparing strategies in patients with MSI/dMMR tumors including Lynch syndrome: Current state of the art and future perspectives for clinical decision-making.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42391582": {
+      "title": "Risk Prognostication After Hypomethylating Agents Combined With Venetoclax in AML: The PRISM Risk Model.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42223513": {
+      "title": "Targeting Fibroblast Activation Protein with [177Lu]Lu-FAP-2286 in Patients with Advanced Solid Tumors in the Phase I LuMIERE Trial.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42509447": {
+      "title": "AI-integrated multi-omics platform to revolutionize anti-metastatic therapy development through circulating tumor cell profiling: SCRUM-MONSTAR-CTC.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42673996": {
+      "title": "Benchmarking UK Lynch syndrome colonoscopy surveillance: quality metrics and diagnostic yield from the National Endoscopy Database.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42670811": {
+      "title": "Family History of Cancer and Risks of Concordant and Discordant Cancers: A Nationwide Cohort Study of Korean Women.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "41932450": {
+      "title": "Interventions for Increasing Colorectal Cancer Screening Uptake: A Systematic Review and Network Meta-Analysis.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42231029": {
+      "title": "Spatial, temporal, and molecular heterogeneity of ADC targets in high-grade serous ovarian carcinoma.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42365196": {
+      "title": "Prevalence and complementary distribution of FGFR3 alterations and ERBB2 amplification in metastatic urothelial carcinoma: a nationwide registry analysis.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42673761": {
+      "title": "Genomic and transcriptomic features of HBV integration in treatment-naïve, HBeAg-positive children with chronic HBV infection.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42634487": {
+      "title": "Gynecologic cancers in low- and middle-income countries: Bridging the survival gap.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "41790029": {
+      "title": "Genomic Profiling of Epidermal Growth Factor Receptor Mutation-Positive Non-Small Cell Lung Cancer after Progression on First-line Osimertinib: Phase II ORCHARD Study.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "41941252": {
+      "title": "Efficacy and Genomic Analysis of HER2-Mutant Metastatic Triple-Negative Breast Cancer Treated with Neratinib Alone or with Trastuzumab in the SUMMIT Basket Trial.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42678609": {
+      "title": "Associations of neighborhood deprivation with breast cancer tumor genomics, targeted treatment use, and survival.",
+      "reported_at": "2026-09-01T22:20:13.037576"
+    },
+    "42337046": {
+      "title": "Frequency of germline pathogenic variants in breast cancer predisposing genes in a national cohort of young women with breast cancer.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42498744": {
+      "title": "Chinese expert consensus on precision testing and molecular diagnosis of pancreatic cancer (2025).",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42308255": {
+      "title": "Counterfactual Diffusion Models Provide Interpretable Explanations of Artificial Intelligence Models in Pathology.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42680778": {
+      "title": "Sorafenib/piroxicam therapy with biomarker-defined survival benefit in canine muscle-invasive urothelial carcinoma.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42670227": {
+      "title": "Adding Intratumoral Antibody-Photoabsorber Conjugate Improves Efficacy of Near-Infrared Photoimmunotherapy (NIR-PIT).",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "40478201": {
+      "title": "Temporal Trends in Mortality Related to Crohn's Disease in the United States: A 21-year Retrospective Analysis of CDC-WONDER Database.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42680696": {
+      "title": "Genotype-Informed Whole-Animal Kinome Screening Reveals Shared Kinase Vulnerabilities Across Driver Contexts in PDAC.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42231027": {
+      "title": "Role of VEGFA/VEGFR2 signaling in predicting clinical outcomes of EGFR-TKI treatment in EGFR-mutant non-small cell lung cancer.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42288686": {
+      "title": "Can ovarian cancer screening work? A secondary analysis of the UK collaborative trial of ovarian cancer screening.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42286232": {
+      "title": "Fecal immunochemical tests from population-based colorectal cancer screening programs support prospective microbiome cohorts.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42303832": {
+      "title": "Evolving attitudes towards cancer screening: a 2024 update of UK population views.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42277287": {
+      "title": "Associations of alcohol use with expression of stromal markers in benign breast biopsy samples.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "41891368": {
+      "title": "Artificial Intelligence for Colorectal Surgeons-Part I: Foundations and Clinical and Educational Applications.",
+      "reported_at": "2026-09-02T22:09:31.240592"
+    },
+    "42684488": {
+      "title": "Lynch syndrome-associated urothelial carcinoma: clinical and molecular findings from a single-institution cohort.",
+      "reported_at": "2026-09-03T22:07:37.738966"
+    },
+    "42685115": {
+      "title": "Integrative proteomics reveals MSH6 to modulate PARP inhibitor sensitivity in BRCA1/2-proficient ovarian cancer.",
+      "reported_at": "2026-09-03T22:07:37.738966"
+    },
+    "42686803": {
+      "title": "High-grade serous ovarian cancer is associated with increased TP53 mutation burden in uterine lavage.",
+      "reported_at": "2026-09-03T22:07:37.738966"
+    },
+    "42686479": {
+      "title": "Host metabolism rewrites metastatic fate.",
+      "reported_at": "2026-09-03T22:07:37.738966"
+    },
+    "42684705": {
+      "title": "Historical Redlining and Spatiotemporal Patterns in Breast Cancer Screening.",
+      "reported_at": "2026-09-03T22:07:37.738966"
+    },
+    "42686374": {
+      "title": "Overall survival of immunotherapy versus standard of care in chemorefractory microsatellite stable metastatic colorectal cancer: a propensity score matched analysis of 708 patients.",
+      "reported_at": "2026-09-03T22:07:37.738966"
+    },
+    "42686774": {
+      "title": "Low-pass whole-genome sequencing reveals genomic diversity and ecotype-specific adaptation in indigenous Tigrayan chickens.",
+      "reported_at": "2026-09-03T22:07:37.738966"
+    },
+    "42691027": {
+      "title": "ILF3 regulates erythroid differentiation: A single-cell transcriptomic analysis and cellular experiment.",
+      "reported_at": "2026-09-03T22:07:37.738966"
+    },
+    "42693191": {
+      "title": "Prevalence of BRCA1/2 variants in an Ovarian Cancer Cohort: outcomes from a Nationwide Testing Program.",
+      "reported_at": "2026-09-04T22:05:50.299800"
+    },
+    "42692809": {
+      "title": "Exome sequencing and large-scale analysis of electronic medical record-linked biobank data identify candidate deafness genes.",
+      "reported_at": "2026-09-04T22:05:50.299800"
+    },
+    "42696537": {
+      "title": "Intratumoral injection of EpCAM BITE, IL-12, and GM-CSF mRNA-LNPs blocks the growth of local treated and distant untreated tumors.",
+      "reported_at": "2026-09-04T22:05:50.299800"
+    },
+    "42697814": {
+      "title": "Exploiting DNA damage tolerance for precision oncology.",
+      "reported_at": "2026-09-05T22:04:10.062241"
+    },
+    "42704833": {
+      "title": "PDGFRA amplification could be a poor prognostic factor of advanced undifferentiated pleomorphic sarcoma in a comprehensive genomic profiling cohort.",
+      "reported_at": "2026-09-07T22:04:14.610811"
+    },
+    "41611967": {
+      "title": "Non-invasive screening in hereditary cancer: a randomized controlled trial to test cell-free DNA-based early detection in the CHARM consortium.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41807735": {
+      "title": "Validation structures for sequence variants of uncertain significance in hereditary cancer.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "42265275": {
+      "title": "Hereditary cancer: Germline testing practices across ERN GENTURIS member countries.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41731180": {
+      "title": "Integrating germline and tumor sequencing to improve hereditary cancer diagnosis and care.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41772283": {
+      "title": "Universal tumor screening and mainstream genetic testing for Lynch syndrome in colorectal cancer: a scoping review of barriers and facilitators.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41851262": {
+      "title": "Sequencing approaches in hereditary cancer testing: strengths, limitations and future directions.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "42521810": {
+      "title": "Bridging the gap: integrating hereditary cancer into precision oncology.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41917266": {
+      "title": "Rare solid tumours as indicators of hereditary cancer syndromes.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "42708325": {
+      "title": "Detection rate of pathogenic variants by postmortem genetic testing for sudden cardiac death among children and young adults: systematic review and meta-analysis.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "42707265": {
+      "title": "The Role of Genetic Variation in Phenotypic Variability in Loeys-Dietz Syndrome.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41699267": {
+      "title": "Genetic counseling services for hereditary breast and ovarian cancer: patients' experience and satisfaction with different service models.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41840222": {
+      "title": "Evaluation of BoostDM, a somatic variant prediction tool, for the interpretation of germline variants in hereditary cancer genes.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41484459": {
+      "title": "Impact of BRCA1/2 status on young women's sexual function, relationships, and reproduction after predictive genetic testing.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41851261": {
+      "title": "Analysis of structure and conservation for supporting functional evaluation of PMS2 missense variants.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41611968": {
+      "title": "Results of a multigene panel testing approach targeting patients with suspected genetic predisposition to pancreatic ductal adenocarcinoma.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41454052": {
+      "title": "Exome sequencing points to pathogenic ATM variants in gastric cancer.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41430483": {
+      "title": "Hereditary diffuse gastric cancer in progress: Comparative lessons from Lynch syndrome.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "42705254": {
+      "title": "Chemotherapy with or without pembrolizumab followed by maintenance pembrolizumab with or without olaparib as first-line treatment of patients with advanced BRCA non-mutated epithelial ovarian cancer (ENGOT-OV43/GOG-3036/KEYLYNK-001): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "41193835": {
+      "title": "Advancing towards clear and patient-centred language in cancer genetics.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "42707325": {
+      "title": "Association Between Mutation Context-Associated RUNX1 Transcriptional States and Immune-Stromal Heterogeneity in Nonsmall Cell Lung Cancer.",
+      "reported_at": "2026-09-08T22:09:37.252582"
+    },
+    "42407299": {
+      "title": "Mismatch repair deficiency or microsatellite instability in locally advanced rectal cancer patients treated with total neoadjuvant therapy.",
+      "reported_at": "2026-09-18T12:57:55.749499"
+    },
+    "42714234": {
+      "title": "Genetic Testing Unveils a Novel Thrombospondin-1 Domain Containing Protein 1 Gene Variant as the Cause of Chronic Edema in a 79-Year-Old Woman.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42710275": {
+      "title": "Liquid biopsy: a new window on the BRCA genes.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "41840221": {
+      "title": "Optimizing GRIDSS for clinical use: A targeted NGS filtering strategy for germline structural variant detection.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42714885": {
+      "title": "Risk of Relapse and Efficacy of Adjuvant Chemotherapy in Localized Appendiceal Adenocarcinoma.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "41955317": {
+      "title": "Menopause-related quality of life 5 years after salpingectomy with delayed oophorectomy vs salpingo-oophorectomy.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "41540143": {
+      "title": "Integration of multi-omics data uncovers novel germline susceptibility candidates in early-onset colorectal cancer.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42715516": {
+      "title": "LymphGen-Sig: Integrating Genetic and Transcriptional States to Predict Therapeutic Response in Diffuse Large B-Cell Lymphoma.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42706007": {
+      "title": "Cancer-associated synonymous mutations target mRNA structures and protein activity.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42715328": {
+      "title": "GSK3β and Plk1 sequentially phosphorylate ATP-citrate lyase to promote homologous recombination.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42228854": {
+      "title": "Impact of adjuvant breast radiotherapy on the risk and the survival of second primary lung cancer: a large population-based study.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42715308": {
+      "title": "Spatiotemporal mapping of tertiary lymphoid structure heterogeneity shapes immune niches and clinical outcomes in intrahepatic cholangiocarcinoma.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42713910": {
+      "title": "Early stage nonsmall cell lung cancer: Toward a risk-adaptive paradigm in the era of biologic precision.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42395434": {
+      "title": "AutoBlot: deterministic single-cell western blotting reveals proteomic diversity in rare cell populations.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42706285": {
+      "title": "Multiple local PfDHFR I164L haplotype expansions drive Plasmodium falciparum antifolate resistance in Uganda.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42462627": {
+      "title": "Organotropism-specific circulating tumor cells profiles: Morphology and heterotypic clustering predict metastatic sites in liquid biopsy of solid tumors.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42440313": {
+      "title": "Low-Value Services and Longitudinal Knowledge Assessment Performance.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "41964525": {
+      "title": "Cancer prevention in context: interplay of perceived discrimination, neighborhood deprivation, and cancer-related risk and protective factors.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42705125": {
+      "title": "Mutated p53 results in altered type I interferon pathway expression and signaling in endometrial cancer.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "41723072": {
+      "title": "Impact of TP53, KEAP1 and STK11 mutations in localized-stage NSCLC: A European thoracic oncology platform lungscape project.",
+      "reported_at": "2026-09-09T22:11:17.017924"
+    },
+    "42720829": {
+      "title": "Current status of knowledge, diagnosis and management of hereditary colorectal cancer among physicians in China: a national questionnaire survey of 81 doctors from different hospitals.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42715825": {
+      "title": "Is pembrolizumab as safe and efficient as neoadjuvant treatment in localized dMMR/MSI esophagogastric cancers? Results from the IMHOTEP phase II study.",
+      "reported_at": "2026-09-18T12:57:55.749499"
+    },
+    "42720640": {
+      "title": "AGA Clinical Practice Update on Management of Ampullary Neoplasms: Expert Review.",
+      "reported_at": "2026-09-10T22:07:03.772180"
+    },
+    "42719515": {
+      "title": "Bayesian Integration of Tumor Mutational Signatures and Somatic Features Refines Pathogenicity Assessment of Germline Mismatch Repair Variants.",
+      "reported_at": "2026-09-18T12:57:55.749499"
+    },
+    "42720705": {
+      "title": "Uptake of germline testing for Lynch Syndrome in patients with deficient mismatch repair/ microsatellite-high colorectal cancer in the public hospital system in South Australia.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42716948": {
+      "title": "Recurrent mechanisms of biallelic epigenetic inactivation reveal new putative tumour suppressor genes in prostate cancer.",
+      "reported_at": "2026-09-10T22:07:03.772180"
+    },
+    "42720429": {
+      "title": "Target Antigen Identification for Antibody Drug Conjugate Therapy in Biliary Tract Cancer.",
+      "reported_at": "2026-09-10T22:07:03.772180"
+    },
+    "42717387": {
+      "title": "Is Less More? An Update on Aspirin for Cancer Prevention in Lynch Syndrome From the Cancer Prevention Programme-CaPP.",
+      "reported_at": "2026-09-10T22:07:03.772180"
+    },
+    "42721157": {
+      "title": "Women's compliance with cervical cancer screening recommendations and associated barriers to participation: A cross-sectional analysis.",
+      "reported_at": "2026-09-10T22:07:03.772180"
+    },
+    "41276692": {
+      "title": "Concerns about the consequences of cancer predisposition and relationships with quality of life in young adults with Li-Fraumeni syndrome.",
+      "reported_at": "2026-09-10T22:07:03.772180"
+    },
+    "42725421": {
+      "title": "Germline ATM Testing in Hereditary Cancer Syndromes: Feedback from a Five-Year Center Cohort.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42721959": {
+      "title": "Ensemble learning of pathology foundation models for precision oncology.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42726875": {
+      "title": "Mutant p53 sensitizes KRAS-driven lung adenocarcinoma to immunotherapy by repressing SPP1.",
+      "reported_at": "2026-09-11T22:05:55.314009"
+    },
+    "42726768": {
+      "title": "The impact of anxiety and affective disorders on breast cancer screening in women in Puerto Rico.",
+      "reported_at": "2026-09-11T22:05:55.314009"
+    },
+    "42726846": {
+      "title": "The FAP × CD3 bispecific antibody OMTX305 induces T cell-mediated antitumor effects in patient-derived ex vivo models of solid tumors.",
+      "reported_at": "2026-09-11T22:05:55.314009"
+    },
+    "42728028": {
+      "title": "Heterozygous germline mutations in MSH3, and probably MLH3, act as classical tumour suppressors, leading to excess somatic deletion mutations, signature ID4 and increased colorectal cancer risk.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42728320": {
+      "title": "The role of pathology laboratories in integrating genetic testing into Australian primary care: an implementation science perspective.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42727421": {
+      "title": "Clinically actionable genomic alterations in breast cancer brain metastases.",
+      "reported_at": "2026-09-12T22:05:01.159153"
+    },
+    "42728322": {
+      "title": "Concealed cardiomyopathy in sudden childhood death: translation from molecular autopsy to family assessment.",
+      "reported_at": "2026-09-12T22:05:01.159153"
+    },
+    "42732021": {
+      "title": "The Landmark Series: Mutation-Based Therapy of Pancreatic Cancer.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42732008": {
+      "title": "Long-read sequencing reveals a hidden Alu-mediated splice defect in CPLANE1, causing orofaciodigital syndrome type VI.",
+      "reported_at": "2026-09-13T22:05:05.732707"
+    },
+    "42728384": {
+      "title": "Cancer treatment alters mutant selection in normal esophagus.",
+      "reported_at": "2026-09-13T22:05:05.732707"
+    },
+    "42731347": {
+      "title": "Thirty years of adjuvant therapy: From treating risk to treating residual disease.",
+      "reported_at": "2026-09-13T22:05:05.732707"
+    },
+    "42347868": {
+      "title": "Biomarker Analysis from Patients with Metastatic PDAC Treated with TGFβ Antibody NIS793 plus Abraxane + Gemcitabine versus Abraxane + Gemcitabine Alone in a Phase II, Open-Label, Randomized Study.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42723498": {
+      "title": "The evolving role of immunotherapy in ovarian cancer.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42384765": {
+      "title": "Epigenetic Liquid Biopsy Enables Universal Mutation-Agnostic Molecular Surveillance for High-Risk Neuroblastoma.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42740696": {
+      "title": "Trends in Incidence Rates of Anogenital Cancers in Costa Rica, 1996-2022.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42360806": {
+      "title": "Molecular and Clinical Determinants of Targeted Therapy Treatment in Biliary Tract Cancer.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42237450": {
+      "title": "Landscape of Chinese Lung Cancer Patients With Compound Mutations and Acquired Resistance Alterations: A Retrospective Study.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42720530": {
+      "title": "Prevalence of breast, cervical, and colorectal cancer screening among adults according to disability type and difficulty level, United States, 2021 and 2023.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42440365": {
+      "title": "Role of ctDNA Tumor Fraction in Selecting Immunotherapy-Based Regimens in Advanced Non-Small Cell Lung Cancer.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42735455": {
+      "title": "Tumor genomic landscape of older patients with metastatic breast cancer<sup>☆</sup>.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42377073": {
+      "title": "Camrelizumab, Apatinib, and Radiotherapy in Locally Advanced, Unresectable Hepatocellular Carcinoma: A Phase II Study.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42347893": {
+      "title": "Tumoral and Systemic Immune Correlates of Response to Concurrent Pembrolizumab and Chemoradiotherapy in Patients with Resected High-Risk Head and Neck Squamous Cell Carcinoma.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42446521": {
+      "title": "Clinical Significance of EGFR Amplification in Patients with EGFR-Mutated Metastatic Non-Small Cell Lung Cancer Receiving First-line Osimertinib.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42063357": {
+      "title": "Derivation and Validation of a Predictive Model for Advanced Colorectal Neoplasia Among Average-Risk Adults in China.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42439804": {
+      "title": "The Novel Hypomethylating Agent NTX-301 Reprograms Epigenetic and Hippo Signaling Pathways and Exhibits Preclinical Activity in Venetoclax-Resistant and TP53-Mutant AML.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42736332": {
+      "title": "E12.5 pancreatic bud-derived cells are detected in recipient pancreata after intraplacental transplantation, but Pdx1-deficient recipients lack a macroscopically detectable pancreas.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42046158": {
+      "title": "Health Care Policy Implementation Trial of Primary Human Papillomavirus-Based Cervical Screening in Denmark.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "41992467": {
+      "title": "Availability of Cancer Screening Across HIV Treatment Sites in the IeDEA Consortium.",
+      "reported_at": "2026-09-15T22:07:20.666309"
+    },
+    "42747564": {
+      "title": "Trends in contralateral prophylactic mastectomy and genetic testing in the era of new society guidelines.",
+      "reported_at": "2026-09-16T22:07:06.043715"
+    },
+    "42745396": {
+      "title": "IMMU-NO versus yes: Applicability of immune checkpoint inhibitors in gynecologic cancers.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42743120": {
+      "title": "A novel one-step multiplex PCR method (OS-MPCR) for efficient NGS library preparation in cancer.",
+      "reported_at": "2026-09-16T22:07:06.043715"
+    },
+    "42743455": {
+      "title": "Circulating Tumor DNA Profiling Defines Risk Classification in Patients With Ewing Sarcoma: A Report From the Children's Oncology Group and the LEOPARD Study.",
+      "reported_at": "2026-09-16T22:07:06.043715"
+    },
+    "42743268": {
+      "title": "Associations between serum lactate and renal dysfunction in diabetic kidney disease: An exploratory analysis integrating animal experiments, clinical cohorts, and bioinformatic approaches.",
+      "reported_at": "2026-09-16T22:07:06.043715"
+    },
+    "42743681": {
+      "title": "Prognostic implications of HPV and TP53 status in early-stage vulvar squamous cell carcinoma.",
+      "reported_at": "2026-09-16T22:07:06.043715"
+    },
+    "42743243": {
+      "title": "Germline predisposition and the pattern of breast cancer metastasis.",
+      "reported_at": "2026-09-16T22:07:06.043715"
+    },
+    "42748244": {
+      "title": "Quantum coherent dynamics in allophycocyanin trimer complex.",
+      "reported_at": "2026-09-16T22:07:06.043715"
+    },
+    "42748914": {
+      "title": "Single-cell and spatial multi-omics reveal a recurrent multicellular niche at the tumor-stroma interface in multidrug resistance.",
+      "reported_at": "2026-09-17T22:07:08.488200"
+    },
+    "42752144": {
+      "title": "Germline EGFR T790M mutation and lung cancer risk.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42753012": {
+      "title": "An update on APC I1307K homozygosity: observations from a large multigene panel testing cohort.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42753054": {
+      "title": "Influence of Variant of Uncertain Significance (VUS) Genetic Testing Results on Mastectomy Choice in Lumpectomy-Eligible Patients.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42753019": {
+      "title": "Risk of desmoid tumor based on APC pathogenic variant location and surgical history in familial adenomatous polyposis: a U.S. community cohort study.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42752783": {
+      "title": "How a Rare Inherited Lung Cancer Mutation Took Root in Appalachia.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42752674": {
+      "title": "Computational screening of oncogenic genetic variations in tumor suppressor proteins driving gastric cancer pathogenesis.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42753013": {
+      "title": "The clinical and phenotypic spectrum of PTEN hamartoma tumor syndrome: a retrospective cohort study.",
+      "reported_at": "2026-09-18T22:11:12.732654"
+    },
+    "42753723": {
+      "title": "Proteogenomic analysis of pediatric and AYA high-grade glioma reveals age-dependent biology, female-male differences, and kinase targets.",
+      "reported_at": "2026-09-18T22:11:12.732654"
+    },
+    "42754578": {
+      "title": "Harnessing endogenous carbon monoxide for cancer-selective drug synthesis.",
+      "reported_at": "2026-09-18T22:11:12.732654"
+    },
+    "42759527": {
+      "title": "Precision prevention and early detection: framework for a new clinical cancer control pathway.",
+      "reported_at": "2026-09-20T00:47:55.268151"
+    },
+    "42762558": {
+      "title": "Genomic landscape of sweat gland carcinomas: Clinical applications and future directions.",
+      "reported_at": "2026-09-20T22:09:32.195011"
+    },
+    "42762085": {
+      "title": "Precision Health Genetic Screening: Protocol and results categories for a clinical population genetic screening program.",
+      "reported_at": "2026-09-20T22:09:32.195011"
+    },
+    "42760303": {
+      "title": "Genomic and transcriptomic landscape of spread through air spaces in stage 1 lung adenocarcinoma.",
+      "reported_at": "2026-09-20T22:09:32.195011"
+    },
+    "42760340": {
+      "title": "A universal visual foundation model for computational cytopathology.",
+      "reported_at": "2026-09-20T22:09:32.195011"
+    },
+    "42759506": {
+      "title": "Characterization of circulating neoantigen-specific T cell responses and public T cell receptors shaping immune memory in Lynch syndrome carriers.",
+      "reported_at": "2026-09-20T22:09:32.195011"
+    },
+    "42760279": {
+      "title": "Autophagy inhibition sensitizes radiotherapy responses in high-grade mutant IDH1 glioma.",
+      "reported_at": "2026-09-20T22:09:32.195011"
+    },
+    "42765953": {
+      "title": "Mesenchymal Tumors Feature a Spatially Defined Glial-Tip Cell Niche Around the Tumor Boundary in Microsatellite-Stable Colorectal Cancer.",
+      "reported_at": "2026-09-21T22:08:57.803668"
+    },
+    "42765908": {
+      "title": "Safety and Efficacy of Ceralasertib plus Olaparib for Advanced/Metastatic Triple-Negative Breast Cancer in Three Molecular Strata: The Phase II VIOLETTE Study.",
+      "reported_at": "2026-09-21T22:08:57.803668"
+    },
+    "42765364": {
+      "title": "Copy Number Variant Detection by Exome/Genome Sequencing Versus Chromosomal Microarray: A Comparative Study of Over 9,000 Clinical Cases.",
+      "reported_at": "2026-09-21T22:08:57.803668"
+    },
+    "42764195": {
+      "title": "Cord Blood-Derived Fibroblast Activation Protein-Targeted Chimeric Antigen Receptor Natural Killer Cells Persist in Vivo.",
+      "reported_at": "2026-09-21T22:08:57.803668"
+    },
+    "42767904": {
+      "title": "Next-generation tumor-agnostic targets on the horizon.",
+      "reported_at": "2026-09-22T22:09:39.239304"
+    },
+    "42768030": {
+      "title": "PUM3 is an essential suppressor of replication stress in homologous recombination deficient breast cancer.",
+      "reported_at": "2026-09-22T22:09:39.239304"
+    },
+    "42767842": {
+      "title": "Evaluating consistency and variation in mainstream germline cancer genetic and genomic testing.",
+      "reported_at": "2026-09-22T22:09:39.239304"
+    },
+    "42767903": {
+      "title": "Not 'cold' but conditional: emerging principles of immunotherapy in colorectal cancer.",
+      "reported_at": "2026-09-22T22:09:39.239304"
+    },
+    "42767168": {
+      "title": "A phase II study in newly diagnosed stage III/IV epithelial ovarian cancer evaluating carboplatin/taxol/pembrolizumab in patients receiving neoadjuvant chemotherapy followed by pembrolizumab maintenance with or without olaparib.",
+      "reported_at": "2026-09-22T22:09:39.239304"
+    },
+    "42773173": {
+      "title": "Replication stress in cancer: origins, consequences and therapeutic opportunities.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42776544": {
+      "title": "Projected Benefit of Bilateral Salpingo-Oophorectomy by Age in BRCA Carriers.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42775551": {
+      "title": "Early-Onset Colorectal Cancer: Contemporary Management, Immunotherapy, and Organ Preservation.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42461618": {
+      "title": "Three-Year Follow-up of the Randomized Trial Comparing Open Versus Laparoscopic Surgery for Primary Tumor Resection in Patients With Noncurable Stage IV Colon Cancer (JCOG1107).",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42773207": {
+      "title": "Performance and safety of a multi-cancer early detection test: the PATHFINDER 2 study.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42777043": {
+      "title": "RNF43 p.G659fs leads to natural killer cell dysfunction in MSI-high colorectal cancer through PI3K/AKT/mTOR signaling and HLA-E up-regulation.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42776062": {
+      "title": "The Next Frontier in Quantitative Co-Clinical Imaging to Advance Functional Precision Oncology.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42773211": {
+      "title": "Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42773217": {
+      "title": "Reproductive factors and the expression of stromal markers in benign breast biopsy samples.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42776751": {
+      "title": "Cdk1 heterozygosity triggers premeiotic endoreplication and unreduced sperm formation via the Cdk2/Ccne1-Fzr1a pathway in loach, a teleost.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42775545": {
+      "title": "The THOMAS Study: A Pilot Study for Patient-Administered Anal Cancer Screening.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42771607": {
+      "title": "Spectrum and immunovirological determinants of tumours among people living with HIV in Uganda: A retrospective cross sectional study from a specialised HIV centre, 2017-2026.",
+      "reported_at": "2026-09-23T22:15:59.297403"
+    },
+    "42777326": {
+      "title": "Personalized medicine, scientific revolution or self-serving illusion: viewpoint from EORTC-PAMM Group.",
+      "reported_at": "2026-09-24T22:10:17.681172"
+    },
+    "42779827": {
+      "title": "Phosphorylation-dependent binding of the Adenomatous Polyposis Coli protein to β-TrCP1 regulates β-catenin destruction.",
+      "reported_at": "2026-09-24T22:10:17.681172"
+    },
+    "42779794": {
+      "title": "Merlin restoration prevents schwannoma progression in a genetically engineered mouse model of NF2 -SWN.",
+      "reported_at": "2026-09-24T22:10:17.681172"
+    },
+    "42777710": {
+      "title": "A blood-based metabolic signature for earlier detection of lung cancer.",
+      "reported_at": "2026-09-24T22:10:17.681172"
+    },
+    "42779977": {
+      "title": "Clustered structural variant hotspots enable oncogenic addiction and plasticity in osteosarcoma.",
+      "reported_at": "2026-09-24T22:10:17.681172"
+    },
+    "42779893": {
+      "title": "Na + /K + -ATPase Blockade Reversibly Attenuates Proliferation and Metabolic Function in K562 Human Myelogenous Leukemia Cells.",
+      "reported_at": "2026-09-24T22:10:17.681172"
+    },
+    "42779658": {
+      "title": "Spatiotemporal control of STING activation and saRNA delivery decouples humoral and cellular immunity.",
+      "reported_at": "2026-09-24T22:10:17.681172"
+    },
+    "42779790": {
+      "title": "TALAVE in Breast Cancer: BRCA1/2 Mutation-Dependent Immune Remodeling after PARP Inhibition with Limited Checkpoint Engagement.",
+      "reported_at": "2026-09-24T22:10:17.681172"
+    },
+    "42779615": {
+      "title": "Dynamics of mutators of arbitrary dominance in humans.",
+      "reported_at": "2026-09-24T22:10:17.681172"
+    },
+    "42785979": {
+      "title": "Metastatic pancreatic cancer: from human disease to preclinical modelling.",
+      "reported_at": "2026-09-25T22:12:53.193701"
+    },
+    "42781783": {
+      "title": "Universal versus guideline-based germline multigene panel testing in solid tumors: Diagnostic yield, variant of uncertain significance burden, and clinical actionability - A systematic review with meta-analysis.",
+      "reported_at": "2026-09-25T22:12:53.193701"
+    },
+    "42789554": {
+      "title": "Tumor microbial biodiversity and microsatellite instability in colorectal cancer.",
+      "reported_at": "2026-09-25T22:12:53.193701"
+    },
+    "42788407": {
+      "title": "Randomized Prospective Comparison Between Neoadjuvant Mitomycin C Plus Cisplatin and Paclitaxel Plus Carboplatin in Patients With BRCA1-Associated Ovarian Cancer.",
+      "reported_at": "2026-09-25T22:12:53.193701"
+    },
+    "42782170": {
+      "title": "A Machine Learning Framework Enables Supervised Treatment Response Prediction from Tumor Transcriptomics across Cancer Types.",
+      "reported_at": "2026-09-25T22:12:53.193701"
+    },
+    "42787793": {
+      "title": "SCN5A U12-Type Minor Intron Variant Causes Cryptic Splicing and Cardiac Arrhythmia Disease.",
+      "reported_at": "2026-09-25T22:12:53.193701"
+    },
+    "42782060": {
+      "title": "Clinical perspectives on mitochondria in cancer.",
+      "reported_at": "2026-09-25T22:12:53.193701"
+    },
+    "42788322": {
+      "title": "Barriers and facilitators of implementing integrated genomic risk assessment - a qualitative case study in an academic-affiliated health system.",
+      "reported_at": "2026-09-25T22:12:53.193701"
+    },
+    "42789608": {
+      "title": "Exploring the cytotoxic potential of Artemisia herba-alba crude extract and key phytoconstituents using in vitro assays and molecular docking insights.",
+      "reported_at": "2026-09-25T22:12:53.193701"
+    },
+    "42790443": {
+      "title": "Balancing benefits, costs, and harms: policy implications of expanding cancer susceptibility testing from genetics clinics to the general population.",
+      "reported_at": "2026-09-26T22:07:20.720443"
+    },
+    "42790840": {
+      "title": "Gastric and Duodenal Cancer in Lynch Syndrome: Incidence and Endoscopic Surveillance-Systematic Review and Meta-analysis.",
+      "reported_at": "2026-09-26T22:07:20.720443"
+    },
+    "42790448": {
+      "title": "Accelerating equitable cancer genomics and precision oncology in health care and research: a Lancet Oncology Commission.",
+      "reported_at": "2026-09-26T22:07:20.720443"
+    },
+    "42791163": {
+      "title": "Cancer genomic data systems in precision oncology: from integration to clinical implementation.",
+      "reported_at": "2026-09-26T22:07:20.720443"
+    },
+    "42791327": {
+      "title": "Interdisciplinary management and genetic evaluation of pediatric cancer predisposition syndromes: a retrospective cohort study.",
+      "reported_at": "2026-09-26T22:07:20.720443"
+    },
+    "42790449": {
+      "title": "Global uptake of essential cancer medicines with and without complex genomic diagnostics: a retrospective observational study.",
+      "reported_at": "2026-09-26T22:07:20.720443"
+    },
+    "42791062": {
+      "title": "Liquid Biopsy and Multi-Cancer Early Detection Tests for Cancer Screening: A Scoping Review.",
+      "reported_at": "2026-09-26T22:07:20.720443"
+    },
+    "42800127": {
+      "title": "Survival associated with recommended risk-reducing interventions for individuals with pathogenic variants in BRCA1/2.",
+      "reported_at": "2026-09-27T22:05:38.844001"
+    },
+    "42800309": {
+      "title": "Tumour-first DNA testing as a gateway to germline screening in patients with metastatic prostate cancer.",
+      "reported_at": "2026-09-27T22:05:38.844001"
+    },
+    "42801369": {
+      "title": "A frequently occurring MSH2 variant in Iraqi and Chaldean patients with Lynch syndrome: evidence for a putative founder variant.",
+      "reported_at": "2026-09-27T22:05:38.844001"
+    },
+    "42803155": {
+      "title": "Not the end of the road: Achieving diagnoses following non-diagnostic exome sequencing: experiences at a clinical site of the Undiagnosed Diseases Network.",
+      "reported_at": "2026-09-28T22:11:55.903567"
+    },
+    "42804161": {
+      "title": "Inhibition of Translesion DNA Synthesis Sensitizes BRCA-Deficient Ovarian Cancer to PARP Inhibitors.",
+      "reported_at": "2026-09-28T22:11:55.903567"
+    },
+    "42804174": {
+      "title": "Prostate Cancer Screening and Likelihood of Benefit in Veterans Affairs and Fee-for-Service Medicare.",
+      "reported_at": "2026-09-28T22:11:55.903567"
+    },
+    "42804722": {
+      "title": "pileup-hi: an ultra-high-throughput, customizable alignment pileup program for large datasets.",
+      "reported_at": "2026-09-28T22:11:55.903567"
+    },
+    "42808876": {
+      "title": "Image-based Detection of Mismatch Repair Deficiency in Prostate Cancer Using Transfer Learning.",
+      "reported_at": "2026-09-29T22:08:24.713201"
+    },
+    "42806009": {
+      "title": "Diagnostic yield of cancer predisposition in a nationwide prospective childhood acute leukemia cohort.",
+      "reported_at": "2026-09-29T22:08:24.713201"
+    },
+    "42806038": {
+      "title": "Reanalysis of genomic data doubles the diagnostic yield for Welsh patients recruited to the UK 100,000 Genomes Project.",
+      "reported_at": "2026-09-29T22:08:24.713201"
+    },
+    "42807570": {
+      "title": "Genotype and Phenotype of 198 Korean Patients With Nonlethal Osteogenesis Imperfecta: A Retrospective Cohort Study.",
+      "reported_at": "2026-09-29T22:08:24.713201"
+    },
+    "42806144": {
+      "title": "Germline homologous recombination deficiency influences TP53-mutant clonal hematopoiesis fitness during platinum and PARP inhibitor treatment.",
+      "reported_at": "2026-09-29T22:08:24.713201"
+    },
+    "42805846": {
+      "title": "Preparing primary care professionals for genomics-informed healthcare.",
+      "reported_at": "2026-09-29T22:08:24.713201"
+    },
+    "42809807": {
+      "title": "Facilitated Cascade Genetic Testing for Relatives of Individuals With BRCA1/2 Pathogenic Variants: A Randomized Controlled Trial.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42814045": {
+      "title": "Serrated Polyposis Syndrome: A Review and Consensus Statement by the US Multi-Society Task Force on Colorectal Cancer.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42811189": {
+      "title": "Werner helicase inhibitor for advanced microsatellite instability solid tumors: a phase 1 trial.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42814862": {
+      "title": "Interpreting TP53 pathogenic variants in germline testing and cancer genomics: pathogenicity, origin, and clinical actionability.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42498519": {
+      "title": "Potential advantage of clinical exome sequencing in BRCA1/2-negative families: a retrospective study of a cohort of 500 patients at a high-risk for hereditary cancers.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42527158": {
+      "title": "Unified genetic risk score for prostate cancer enables improved risk stratification for clinical decision-making.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42809083": {
+      "title": "Next-Generation Sequencing Identifies Key Targetable Mutations in the Treatment of Appendiceal Neoplasms.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42813378": {
+      "title": "A Pilot Study of the Hereditary Heart Disease Risk Algorithm and User Experience of the Family Health Risk Calculator.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42457638": {
+      "title": "Cancer Variant Interpretation Group UK (CanVIG-UK): updates on an exemplar national subspecialty multidisciplinary network.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42811873": {
+      "title": "Dynamic Changes of ctDNA-Based MRD and Genomic Mutations Predict Prognosis in ESCC Treated With Definitive Radiotherapy.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42814818": {
+      "title": "Electronic profiling of neuronal extracellular vesicles enables early prediction of Parkinson's disease.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42810020": {
+      "title": "Efficacy and safety of pembrolizumab-lenvatinib in metastatic endometrial cancer: results from the French multicenter early access program.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42813400": {
+      "title": "Trends and Survival Outcomes of Adjuvant Chemotherapy in Low-Risk Stage II Colon Cancer: A National Cancer Database Analysis.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42809572": {
+      "title": "Cardiovascular disease mortality in a Central-West Brazilian capital: A spatial, temporal, and ecological analysis.",
+      "reported_at": "2026-09-30T22:15:14.702420"
+    },
+    "42552405": {
+      "title": "Clinical utility and cost-effectiveness of universal tumor screening to identify Lynch syndrome in patients with stage II/III colorectal cancer: a prospective observational study in Japan.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42462747": {
+      "title": "Artificial intelligence-assisted detection and optical differentiation of colorectal lesions in Lynch syndrome surveillance (CADLY2): a multicentre, open-label, randomised controlled superiority trial.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42509448": {
+      "title": "Germline pathogenic variants in Japanese adolescents and young adults with advanced solid tumors: a nationwide tumor-normal paired sequencing study.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42286806": {
+      "title": "Prevalence of Helicobacter pylori Exposure and Risk Factors Among BRCA1 and BRCA2 Carriers.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42775648": {
+      "title": "Recommendations of the American Cancer Society workshop on design, conduct, analysis, and reporting of multicancer early detection trials with late-stage incidence end points and post-trial ongoing evaluation-The Peachtree Consensus.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42509449": {
+      "title": "Workforce and institutional factors associated with comprehensive genomic profiling utilization in gynecologic oncology: a nationwide questionnaire survey in Japan.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42817725": {
+      "title": "BRCA1/2 Carriers With Breast-Ovarian Double Primary Cancers Versus Ovarian Cancer Alone: Mutation Profiles and Survival Outcomes.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42502097": {
+      "title": "Great Debate: Should Surgery Be Omitted in the Management of Gastroesophageal Junction Cancers?",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42755391": {
+      "title": "Outcomes of adult patients with Li-Fraumeni syndrome and myeloid neoplasms.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42331035": {
+      "title": "Computer-assisted versus standard colonoscopy for adenoma detection in a population-based colorectal cancer screening program: a randomized clinical trial.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42011789": {
+      "title": "Effectiveness of Organized Strategies to Enhance Access to Preventive Oral Cancer Screening Among High-Risk Individuals in Brazil: A Randomized Clinical Trial in Primary Care.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42253180": {
+      "title": "Variant-Specific Landscape of Mutual Exclusivity Among BRAF, EGFR, and KRAS Oncogenes Reveals Overlap With Functionally Antagonistic Mutant Pairs.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42420629": {
+      "title": "Olaparib in HR-deficient, metastatic triple-negative breast and platinum-sensitive relapsed ovarian cancers without germline mutations in BRCA1/2: phase 2 EMBRACE trial.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42816529": {
+      "title": "Safety and efficacy of ceralasertib, an ATR kinase inhibitor, combined with olaparib: dose escalation in advanced solid tumours and dose expansion in advanced breast cancer.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42816667": {
+      "title": "Metastatic metaplastic triple negative breast cancer response to sacituzumab govitecan and biomarker targetability.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42201492": {
+      "title": "The Role of PD-L1 in Treatment Decision-Making for Perioperative EGFR-Mutated Lung Cancer and its Genomic Analysis.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42818339": {
+      "title": "Disrupted FAP-satellite cell communication contribute to maladaptive muscle remodeling in older women.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42818108": {
+      "title": "A de novo GABPA Variant in a Patient with Multifocal Cutaneous Vascular Tumors of an Unclassified Entity.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42818231": {
+      "title": "Loss of polr1c disrupts myelination in a zebrafish model of POLR1C -associated disease.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42436321": {
+      "title": "TP53 mutation-biased CD8+ T cell exhaustion drives lethal outcome and therapy resistance in urothelial carcinoma.",
+      "reported_at": "2026-10-01T22:19:13.736595"
+    },
+    "42821536": {
+      "title": "Distinct NGS mutational landscape and prognostic implications in early-onset colorectal cancer: A dual-cohort analysis of TCGA PanCancer Atlas and MSK-IMPACT 50K.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42820669": {
+      "title": "Age- and sex-specific prevalence of deficient mismatch repair protein expression in gastric, colorectal, and endometrial cancers: a center-based study of older Japanese patients.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42822083": {
+      "title": "Prevalence of pathogenic germline variants and indications for testing in a diverse community-based endometrial cancer cohort.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42823566": {
+      "title": "Paired tumor-normal targeted sequencing supports clonal independence of multiple primary malignancies in patients with gastrointestinal stromal tumors.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42398922": {
+      "title": "Genetic Evolution in BRCA1-Associated Breast Cancer Reveals Early Driver Mutations Shaping Tumor Features and Prognosis.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42826363": {
+      "title": "Decoding Treatment Response and Prognosis in Unresectable Locally Advanced Non-Small Cell Lung Cancer by Integrating Spatiotemporal Heterogeneity From 18F-FDG Positron Emission Tomography-Computed Tomography: A Multicenter Study.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42820689": {
+      "title": "A Phase II Study of Nivolumab and Ipilimumab with Radiation Therapy in Patients with Metastatic, Microsatellite Stable Colorectal Cancer.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42820263": {
+      "title": "CHARGE free cascade genetic testing: Effectiveness and implementation outcomes from a hybrid type I feasibility trial.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42823087": {
+      "title": "Propionate promotes CD8+ T-cell infiltration and enhances immunotherapy efficacy in colorectal cancer.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42820264": {
+      "title": "Mainstreaming genetic testing: Evaluation of the Australian Familial Melanoma Clinic.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42461083": {
+      "title": "Targeting WRN Helicase in Microsatellite-Instable Colorectal Cancer Induces Antitumor Immunity through Extrachromosomal Circular DNA Release.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42391342": {
+      "title": "CDK2 Inhibition Exerts RB-Independent Antitumor Activity in CDK4/6 Inhibitor-Resistant HR+/HER2- Breast Cancer.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42824748": {
+      "title": "Expanding the Molecular Data of DICER1-Related Tumor Predisposition: Novel Germline Variants in an Argentine Pediatric Cohort.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42821569": {
+      "title": "Genomic and clinical determinants of response to Azacitidine plus venetoclax in acute myeloid leukemia: Results from the HM-SCREEN-Japan 02 study.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42821692": {
+      "title": "Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42820945": {
+      "title": "Genomic alterations and treatment define spatiotemporal patterns of glioblastoma recurrence.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42823579": {
+      "title": "Universal versus Guideline-Directed Germline Testing in Breast Cancer: Incremental Diagnostic Yield in a Predominantly Black Population.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42470188": {
+      "title": "Genomic Evolution and Immune Contexture With Therapeutic Relevance in Pancreatic Neuroendocrine Neoplasms.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42374986": {
+      "title": "NTAQ1 Promotes Hepatocellular Carcinoma Growth by Facilitating the Protein Degradation of the Tumor Suppressor PRDM2.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42507328": {
+      "title": "Forecasting colorectal cancer screening in Japan: regional and sex disparities threaten national targets.",
+      "reported_at": "2026-10-02T22:20:24.699385"
+    },
+    "42826502": {
+      "title": "An artificial intelligence algorithm characterizes the deterioration of body composition from systemic therapy for patients with advanced prostate cancer.",
+      "reported_at": "2026-10-03T22:59:17.036486"
+    },
+    "42818174": {
+      "title": "Single-cell profiling reveals stromal niche and α5β1 regulation of neutrophil phenotypes in ulcerative colitis.",
+      "reported_at": "2026-10-03T22:59:17.036486"
+    },
+    "42818260": {
+      "title": "Catalytically inactive PARP1 protein drives PARP inhibitor induced hematological toxicity.",
+      "reported_at": "2026-10-03T22:59:17.036486"
+    },
+    "42818268": {
+      "title": "Integrated stress response activation in combination PG3 and cisplatin-treated TP53 -mutated head and neck squamous carcinoma cells induces potent apoptotic response.",
+      "reported_at": "2026-10-03T22:59:17.036486"
+    },
+    "42818088": {
+      "title": "Somatic DDX41 mutations confer neomorphic splicing activity in the pathogenesis of myelodysplastic neoplasms.",
+      "reported_at": "2026-10-03T22:59:17.036486"
+    },
+    "42545412": {
+      "title": "Recurrence in Real Time: Rethinking Breast Cancer Follow-Up Evaluation with Circulating Tumor DNA.",
+      "reported_at": "2026-10-03T22:59:17.036486"
+    },
+    "42359700": {
+      "title": "A Three-Dimensional Culture-Drug Sensitivity Test Predicts MDM2 Inhibitor-Sensitivity in SMARCB1/INI1-Deficient Tumors.",
+      "reported_at": "2026-10-03T22:59:17.036486"
+    },
+    "42420564": {
+      "title": "Drawing lines: how the public defines \"Serious\" genetic conditions for reproductive testing.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42829553": {
+      "title": "Integrated Approach to Diagnosing Limb-Girdle Muscular Dystrophies in Resource-Limited Settings.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42236916": {
+      "title": "Genetic yield of targeted diagnostic screening in a large European cohort of 368 thoracic aortic dissection patients.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42829836": {
+      "title": "Mainstreaming general genetics referrals: measuring the impact on wait times in a general genetics practice.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42448966": {
+      "title": "Unveiling ocular developmental disorders through short-read whole-genome sequencing.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42410102": {
+      "title": "A changed landscape: five-year retrospective on the paradigm shift in genetic testing practices for ALS in Canada.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42426151": {
+      "title": "Integrative and systematic genomic approaches to improve diagnosis in rare and undiagnosed diseases: results from the RareBoost project.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42829896": {
+      "title": "Phase 1 dose escalation and expansion trial of the bispecific CD47 inhibitor and CD40 agonist Fc-fusion protein SL-172154 (SIRPα-Fc-CD40L) in patients with higher-risk myelodysplastic syndrome or acute myeloid leukemia.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42557338": {
+      "title": "Detecting pathogenic structural variation in families with undiagnosed rare disease in a national genome project.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42521809": {
+      "title": "Consensus recommendations for next-generation sequencing-based genetic testing in Rare Neurological diseases.",
+      "reported_at": "2026-10-04T22:14:54.402369"
+    },
+    "42830853": {
+      "title": "Tumour-agnostic immunotherapy: aligning biological rationale, biomarker precision, and real-world implementation.",
+      "reported_at": "2026-10-05T22:13:48.869546"
+    },
+    "42832373": {
+      "title": "Progress in Clinical Care and Research for Li-Fraumeni Syndrome: Perspectives from the 7th Li-Fraumeni Syndrome Association REACH Symposium.",
+      "reported_at": "2026-10-05T22:13:48.869546"
+    },
+    "42832220": {
+      "title": "Smoking Cessation Among Underserved Patients Referred for Lung Cancer Screening: A Randomized Clinical Trial.",
+      "reported_at": "2026-10-05T22:13:48.869546"
+    },
+    "42832683": {
+      "title": "Chronic cigarette smoke exposure induces distinct stem cell states driving genetic driver-specific non-small cell lung cancer subtypes.",
+      "reported_at": "2026-10-05T22:13:48.869546"
+    },
+    "42832476": {
+      "title": "Impact of GST and TP53 gene polymorphisms on susceptibility to end stage renal disease: A case-control analysis.",
+      "reported_at": "2026-10-05T22:13:48.869546"
+    },
+    "42831344": {
+      "title": "Assessment of MRD and Longitudinal Monitoring of Post-Surgery Biliary Tract Cancer With a Customized ctDNA Panel.",
+      "reported_at": "2026-10-05T22:13:48.869546"
+    },
+    "42832147": {
+      "title": "Radical Antegrade Modular Pancreatosplenectomy Versus Standard Resection in T3 Body and Tail Pancreatic Ductal Adenocarcinoma: A Multicenter Retrospective Cohort Study.",
+      "reported_at": "2026-10-05T22:13:48.869546"
+    },
+    "42832530": {
+      "title": "Harmonizing the National Lung Screening Trial: Kernel resolution and field of view compensation.",
+      "reported_at": "2026-10-05T22:13:48.869546"
+    },
+    "42836653": {
+      "title": "Projected impact of population-level multi-cancer early detection screening: a discrete event simulation analysis.",
+      "reported_at": "2026-10-06T22:14:28.270563"
+    },
+    "42833137": {
+      "title": "Recent trends in childhood, teenage and young adult cancer incidence in England (2001-2020).",
+      "reported_at": "2026-10-06T22:14:28.270563"
+    },
+    "42837608": {
+      "title": "Trends and Projections of Esophageal Cancer Incidence and Mortality in China, 1990 to 2050: An Analysis of the Global Burden of Disease Study 2023.",
+      "reported_at": "2026-10-06T22:14:28.270563"
+    },
+    "42837462": {
+      "title": "Spatial and single-nucleus transcriptomics reveals the molecular pathology of type 2 diabetes-associated cognitive dysfunction.",
+      "reported_at": "2026-10-06T22:14:28.270563"
+    },
+    "42842178": {
+      "title": "Bridging the implementation gap in hereditary cancer care for prostate cancer: a narrative review and Japanese environmental scan.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42837805": {
+      "title": "Refining neoplasm risk in DICER1-related tumor predisposition.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42842020": {
+      "title": "Pan-cancer prevalence of microsatellite instability and Lynch syndrome in India.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42839664": {
+      "title": "Neoadjuvant Dual Immunotherapy in T4 Locally Advanced Deficient Mismatch Repair Gastric or Esophagogastric Junction (EGJ) Adenocarcinoma.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42842248": {
+      "title": "Chatbot Intervention and Cancer Risk Knowledge in Adolescents and Young Adults With Cancer Predisposition: A Randomized Clinical Trial.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42842842": {
+      "title": "Unlocking 30-Year-Old Archival Formalin-Fixed Paraffin-Embedded Breast Cancer Specimens (SWOG S8897): An Analytical Feasibility Study.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42486928": {
+      "title": "Routine duodenal papillary biopsy enhances detection of duodenal papillary adenoma in familial adenomatous polyposis patients: a prospective cohort study.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42838738": {
+      "title": "Short-term risk prediction model for pancreatic cancer in type 2 diabetes: development and validation across two independent Chinese cohorts.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42842394": {
+      "title": "Clinical and lifetime natural history of oral cancer: implications for screening and surveillance.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42842549": {
+      "title": "Untimely follow-up after cervical cancer screening: A qualitative study among healthcare providers in Flanders (Belgium).",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42463963": {
+      "title": "Black women's decisions about participating in breast cancer screening in the UK: a qualitative study.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42449149": {
+      "title": "Combining genome-wide polygenic scores with registry data for colorectal cancer risk-based screening.",
+      "reported_at": "2026-10-07T22:13:34.470168"
+    },
+    "42844684": {
+      "title": "Universal Germline Genetic Testing after a Diagnosis of Cancer.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42328709": {
+      "title": "Hereditary cancer multigene panel testing in the United States and Europe: real-world constraints and implications for responsible integration in Japan.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42844118": {
+      "title": "Precision before incision: neoadjuvant tumor-agnostic therapies.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "41980760": {
+      "title": "Stromal biomarker-based framework for identifying pMMR/MSS and dMMR/MSI colorectal cancers with poor outcomes and limited benefit from immunotherapy.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42848302": {
+      "title": "BRCA Mutation Carriers and Breast Implant-Associated Anaplastic Large-Cell Lymphoma: Accumulating Evidence, Proposed Mechanism, and Implications for Reconstructive Planning and Follow-Up.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "41667242": {
+      "title": "Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42847873": {
+      "title": "Analysis of Genomic Testing of Congenital Heart Disease in a Cohort From a Consanguineous Population.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42843210": {
+      "title": "Clinically actionable genetic findings by exome sequencing performed for therapeutic purposes in children with very-high risk cancer included the MAPPYACTS study.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42848235": {
+      "title": "Impact of mainstream genetic testing for breast cancer patients: five-year data from the Parkville Familial Cancer Centre.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "41748160": {
+      "title": "Consensus guidance of immune checkpoint inhibitors in locally advanced rectal cancer.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42843632": {
+      "title": "Colonoscopy quality indicators among nurse endoscopists and physicians in population-based colorectal cancer screening in Sweden.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42847724": {
+      "title": "The HDAC8-U2AF1 Axis Dysregulates DNA Damage-Responsive RNA Splicing and Creates Targetable Vulnerabilities in Acute Myeloid Leukemia.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42843923": {
+      "title": "PARP1-selective inhibitor DSB1559 demonstrates superior efficacy and antitumor immunity in triple-negative breast cancer.",
+      "reported_at": "2026-10-08T22:13:38.658406"
+    },
+    "42525921": {
+      "title": "COMMIT: A Randomized Study of mFOLFOX6/Bevacizumab/Atezolizumab or Atezolizumab Alone as First-Line Treatment of Deficient DNA Mismatch Repair Metastatic Colorectal Cancer.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42854694": {
+      "title": "AI-integrated RNA therapeutics in precision oncology.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42849401": {
+      "title": "Molecular biomarkers in uterine sarcomas: a review of reviews with genomic data integration.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42855583": {
+      "title": "Characterisation of a Portuguese origin founder missense variant in MSH6.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42853791": {
+      "title": "Tuberculosis disease burden trends, drivers, and projections to 2050 in China and the wider Central Asian region, 1990-2023.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42850388": {
+      "title": "Genetic testing and counselling of patients with monogenic amyotrophic lateral sclerosis in Northern Finland: a retrospective, single-centre study.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42853653": {
+      "title": "A new microsimulation model of HPV natural history for comparison of novel cervical screening strategies.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42854706": {
+      "title": "Invasive interval breast cancer rates after digital breast tomosynthesis plus synthesised mammography versus digital mammography screening (TOSYMA): 24-month follow-up of the multicentre, open-label, randomised, controlled, superiority trial.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42380483": {
+      "title": "Can national lung cancer screening programs be implemented without exacerbating social disparities?",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42855328": {
+      "title": "Real-world outcomes of first-line pembrolizumab monotherapy among dMMR/MSI-H advanced or recurrent endometrial cancer patients in the United States.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42853814": {
+      "title": "A dual-functional antiviral and anticancer peptide to target intricate host-pathogen interacting proteins of human papillomavirus associated with head and neck cancer.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42853879": {
+      "title": "Efficient and real-time polyp segmentation: An empirical evaluation of lightweight Mamba integration strategies.",
+      "reported_at": "2026-10-10T22:12:15.986771"
+    },
+    "42859650": {
+      "title": "Somatic Mutation-Informed Transcriptional Architecture of Hepatocellular Carcinoma: A Multiomics Study Centered on TP53.",
+      "reported_at": "2026-10-11T22:07:38.190345"
+    },
+    "42863103": {
+      "title": "Development and Validation of a Blood Test Informed Risk Prediction Model for Lung Cancer-The Copenhagen Lung Cancer Risk Model (CPH-Lung).",
+      "reported_at": "2026-10-12T22:05:55.420990"
+    },
+    "42861612": {
+      "title": "\"TRACEBACK has probably saved my life\": experiences of being notified about clinically significant cancer genetic information by the Australian TRACEBACK program.",
+      "reported_at": "2026-10-12T22:05:55.420990"
+    },
+    "42863474": {
+      "title": "Large-scale integration of functional assay data for the resolution of germline BRCA1 and BRCA2 variants of uncertain significance.",
+      "reported_at": "2026-10-13T22:10:52.075080"
+    },
+    "42864412": {
+      "title": "A health-system-scale, episode-resolved multimodal atlas of cancer cachexia.",
+      "reported_at": "2026-10-13T22:10:52.075080"
+    },
+    "42865221": {
+      "title": "Familial Cancers Associated With Cancers of the Breast, Prostate, Colorectum, and Lung in Sweden.",
+      "reported_at": "2026-10-13T22:10:52.075080"
+    },
+    "42863180": {
+      "title": "\"Our patients deserve better\"-roadblocks to optimal care in biliary malignancies.",
+      "reported_at": "2026-10-13T22:10:52.075080"
+    },
+    "42863473": {
+      "title": "Loss of the human BRIP1 C terminus does not cause Fanconi anemia.",
+      "reported_at": "2026-10-13T22:10:52.075080"
+    },
+    "42868135": {
+      "title": "Integration of transplanted chemically induced liver progenitor cells into recipient bile ducts in a rat bile duct transection model.",
+      "reported_at": "2026-10-14T22:05:13.473392"
+    },
+    "42868113": {
+      "title": "Psychological distress among women with abnormal cervical cancer screening results in Poland: Validation of the Polish version of the Cervical Dysplasia Distress Questionnaire (CDDQ-PL).",
+      "reported_at": "2026-10-14T22:05:13.473392"
+    },
+    "42875977": {
+      "title": "Cancer risks associated with BRCA1 and BRCA2: Overview and management.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42531373": {
+      "title": "Neoadjuvant Olaparib and Pembrolizumab Combination Therapy in the Treatment of Patients with HRD-Positive Advanced Ovarian Cancer: A Pilot Study.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42531431": {
+      "title": "Microsatellite Instability Identifies a Rare but Clinically Relevant Subset of Sarcomas: Insights from the Largest Clinically Sequenced Cohort with Therapeutic Implications.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42872622": {
+      "title": "MLH1 p.His112Arg Variant Is Associated With Increased Cancer Susceptibility.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42268294": {
+      "title": "Brigimadlin versus Doxorubicin in Advanced Dedifferentiated Liposarcoma: Efficacy, Safety, and Translational Data from Brightline-1, a Randomized Phase II/III Trial.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42874919": {
+      "title": "Emerging Therapeutic targets and Early-phase drug Development in Gynecological Malignancies.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42363777": {
+      "title": "HPV Testing Versus Cytology for Cervical Cancer Screening Among Women 50 Years and Older: Evidence From the HPV FOCAL Randomized Controlled Trial.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42484294": {
+      "title": "CRISPR Screening Identifies SMARCAL1 and MRN as Modulators of WRN Dependency in MSI-H Colorectal Cancer.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42531606": {
+      "title": "CDState Resolves Malignant Cell Heterogeneity from Bulk Tumor RNA Sequencing Data.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42874012": {
+      "title": "Treatment of Advanced Biliary Tract Cancer: ASCO Living Guideline, Version 2026.1.0.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42489677": {
+      "title": "A Phase II Multicenter Trial of Rucaparib and Nivolumab as Maintenance Therapy in Patients with Advanced Biliary Tract Cancer: BilT-02.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42873762": {
+      "title": "Personalized genomic landscape of prostate cancer in African American men reveals novel drivers and therapeutic opportunities.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42836673": {
+      "title": "Targeting RAS in pancreatic cancer.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42312659": {
+      "title": "Resource-Adapted Triage Strategies for Women Testing HPV Positive With Self-Collected Vaginal Samples in Cameroon.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42851073": {
+      "title": "Who is eligible for lung cancer screening, and where are they? National subpopulation estimates of people eligible for lung cancer screening.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42277588": {
+      "title": "Clinical Utility of Cytological Methylation Assay in Cervical Cancer Screening Across Various Cervical Transformation Zones.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42873796": {
+      "title": "Survival and disease burden of breast cancer (Monastir, Tunisia): A population-based cohort study (2002-2022).",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42252568": {
+      "title": "Clinical Validation of Four Point-of-Care High-Risk HPV Assays, Including Two Reduced-Valency Assays, for Cervical Cancer Screening in Low-Resource Settings.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42186152": {
+      "title": "Cost-Effectiveness of Initiating Colorectal Cancer Screening at Age 40 Among Average-Risk Individuals in China.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42198797": {
+      "title": "Rising Incidence and Mortality of Colorectal Cancer Among Younger Adults: A Population-Based Study in Taiwan, 1994-2018.",
+      "reported_at": "2026-10-15T22:21:41.628662"
+    },
+    "42878904": {
+      "title": "Moderate-risk variants in hereditary breast and ovarian cancer: seven-year experience from a specialized center.",
+      "reported_at": "2026-10-16T22:07:53.829172"
+    },
+    "42878664": {
+      "title": "Cabergoline Suppresses Postpartum Breast Cancer by Enhancing Mammary Gland Involution in Brca1-Mutant Mice and Is Associated with Reduced Risk in Younger Women.",
+      "reported_at": "2026-10-16T22:07:53.829172"
+    },
+    "42880205": {
+      "title": "Genomic characterization of advanced and recurrent endometrial carcinoma: KRAS and TP53 co-mutation as a biomarker for adverse prognosis and therapeutic failure.",
+      "reported_at": "2026-10-16T22:07:53.829172"
+    },
+    "42879140": {
+      "title": "Nivolumab-Ipilimumab for Localized Microsatellite Instability-High Gastric/Gastroesophageal Junction Adenocarcinoma: The Phase 2 NEONIPIGA Nonrandomized Clinical Trial.",
+      "reported_at": "2026-10-16T22:07:53.829172"
+    },
+    "42879398": {
+      "title": "Bacterial infections and antibiotic susceptibility in children with sickle-cell anemia on malaria chemoprevention using Dihydroartemisinin-piperaquine (DP) or Sulfadoxine-pyrimethamine (SP) in Uganda.",
+      "reported_at": "2026-10-16T22:07:53.829172"
+    },
+    "42878963": {
+      "title": "Histopathological and immunohistochemical analyses do not indicate timing of prophylactic hysterectomy: a retrospective analysis of endometrial biopsies in Lynch syndrome carriers.",
+      "reported_at": "2026-10-16T22:07:53.829172"
+    },
+    "42727528": {
+      "title": "Artificial intelligence for brain cancer management: multimodal digital workflows for diagnosis, treatment planning, and longitudinal monitoring.",
+      "reported_at": "2026-10-16T22:07:53.829172"
+    },
+    "42878631": {
+      "title": "Controlled Trial of Cervical Cancer Screening Frequency Among Human Papillomavirus Vaccinated Women II: Cervical Pre-Cancer End-Points by Specific Non-Vaccine HPV Types.",
+      "reported_at": "2026-10-16T22:07:53.829172"
+    },
+    "42887399": {
+      "title": "Clinical implications of germline and somatic genetic testing in ovarian carcinoma: BRCA and beyond. The PERSONA-Ovary trial.",
+      "reported_at": "2026-10-17T22:08:40.249248"
+    },
+    "42887902": {
+      "title": "Real-World Germline Variant Landscape and Clinical Management in Korean Patients Tested for Suspected Hereditary Cancer.",
+      "reported_at": "2026-10-17T22:08:40.249248"
+    },
+    "42888221": {
+      "title": "Uterine leiomyomas in HLRCC: a scoping review of presentation, histopathology, treatment patterns, and reproductive implications.",
+      "reported_at": "2026-10-17T22:08:40.249248"
+    },
+    "42888201": {
+      "title": "Machine learning uncovers previously undetectable genetic deletions in cancer panel sequencing.",
+      "reported_at": "2026-10-17T22:08:40.249248"
+    },
+    "42888190": {
+      "title": "The molecular heterogeneity and clinical impact of genomic driver alterations in prostate cancer.",
+      "reported_at": "2026-10-17T22:08:40.249248"
+    },
+    "42888220": {
+      "title": "Maternal perspectives on sharing newborn genomic data.",
+      "reported_at": "2026-10-17T22:08:40.249248"
+    },
+    "42886752": {
+      "title": "Quantifying the diagnostic time gap in precision oncology: A retrospective analysis of potential time savings from same-day cartridge-based molecular testing versus next-generation sequencing in cytology specimens.",
+      "reported_at": "2026-10-17T22:08:40.249248"
+    },
+    "42886720": {
+      "title": "A retrospective epidemiological study of screening-derived solid cancer incidence proxy rates in South Korea before and after COVID-19 using Korean National Health Insurance Service data.",
+      "reported_at": "2026-10-17T22:08:40.249248"
+    },
+    "42886673": {
+      "title": "Laboratory-based surveillance of antimicrobial non-susceptibility in Enterobacter species over 12 years at a tertiary-care hospital in Saudi Arabia.",
+      "reported_at": "2026-10-17T22:08:40.249248"
+    },
+    "42892765": {
+      "title": "Tobacco Carcinogen Induces Persistent DNA Damage and Homologous Recombination Dysregulation in Pancreatic Ductal Carcinogenesis.",
+      "reported_at": "2026-10-18T22:04:49.163915"
+    },
+    "42891061": {
+      "title": "Next-Generation Sequencing to Identify Genetic Causes of Chinese Patients Affected With Non-retinal Developmental Eye Disorders.",
+      "reported_at": "2026-10-18T22:04:49.163915"
+    },
+    "42894082": {
+      "title": "Awareness, need and utilization of breast cancer risk management resources in women with hereditary cancer susceptibility.",
+      "reported_at": "2026-10-19T22:06:03.089674"
+    },
+    "42895288": {
+      "title": "Colonoscopy screening outcomes in Lynch syndrome and differential colorectal cancer paths among MLH1/MSH2 carriers.",
+      "reported_at": "2026-10-19T22:06:03.089674"
+    },
+    "42894377": {
+      "title": "Distinct Clinicogenomic Contexts of BRAF-Altered Gliomas and Glioneuronal Tumors: A Nationwide Real-World Study.",
+      "reported_at": "2026-10-19T22:06:03.089674"
+    },
+    "42900270": {
+      "title": "Updated cancer risks in lynch syndrome.",
+      "reported_at": "2026-10-20T22:04:57.750023"
+    },
+    "42901720": {
+      "title": "Observation versus maintenance immunotherapy after PD-1-induced clinical complete response in dMMR/MSI-H colorectal cancer managed non-operatively: a multicenter cohort study.",
+      "reported_at": "2026-10-22T22:05:47.305256"
+    },
+    "42620021": {
+      "title": "A DNA-barcoded Luria-Delbrück assay resolves mechanisms of adaptation.",
+      "reported_at": "2026-10-22T22:05:47.305256"
+    },
+    "42907323": {
+      "title": "Advancing functional treatment prediction for precision oncology.",
+      "reported_at": "2026-10-23T22:33:17.212307"
+    },
+    "42907504": {
+      "title": "WEE1 opposes APC/CCDH1 activity to promote S phase entry.",
+      "reported_at": "2026-10-23T22:33:17.212307"
+    },
+    "42905721": {
+      "title": "Intrahepatic Cholangiocarcinoma: A Review.",
+      "reported_at": "2026-10-23T22:33:17.212307"
+    },
+    "42906778": {
+      "title": "The ESMO Scale for Clinical Actionability of Molecular Targets, version 2 (ESCAT v2): an evidence-based framework for ranking alterations as actionability and resistance biomarkers in precision oncology.",
+      "reported_at": "2026-10-23T22:33:17.212307"
+    },
+    "42905176": {
+      "title": "Colorectal cancer surveillance in Lynch syndrome: quality standards, emerging technology and complementary strategies.",
+      "reported_at": "2026-10-23T22:33:17.212307"
+    },
+    "42907470": {
+      "title": "Precision oncology in advanced melanoma: molecular landscapes and personalized therapy recommendations from the Molecular Tumor Board Freiburg.",
+      "reported_at": "2026-10-23T22:33:17.212307"
+    },
+    "42905385": {
+      "title": "Multigene panel testing for hereditary tumor syndromes: an engine for stratified, preemptive cancer medicine in Japan.",
+      "reported_at": "2026-10-23T22:33:17.212307"
+    },
+    "42906564": {
+      "title": "Disease-free survival and overall survival after neoadjuvant immunotherapy in mismatch repair-deficient colon cancer in the Netherlands: results of the single-arm, multicentre, phase 2, NICHE-2 trial.",
+      "reported_at": "2026-10-23T22:33:17.212307"
+    },
+    "42913277": {
+      "title": "A cross-sectional survey exploring experiences in accessing hormone replacement therapy following risk-reducing surgery for individuals with hereditary ovarian cancer risk.",
+      "reported_at": "2026-10-24T22:10:47.967494"
+    },
+    "42913634": {
+      "title": "How far are we from multi-omics states to therapeutic targets in microsatellite-stable colorectal cancer?",
+      "reported_at": "2026-10-24T22:10:47.967494"
+    },
+    "42910510": {
+      "title": "Not Forgotten: Patient Experiences with Genetic Variant Reclassifications.",
+      "reported_at": "2026-10-24T22:10:47.967494"
+    },
+    "42910550": {
+      "title": "High-Grade B-Cell Lymphoma With 11q Aberration in Africa: A Differential Diagnosis in Cases With Features of Endemic Burkitt Lymphoma.",
+      "reported_at": "2026-10-24T22:10:47.967494"
+    },
+    "42910509": {
+      "title": "Exome-wide analysis of rare deleterious variants in 3,569 sarcoma cases and 21,788 controls from multiple international data sources reveals no novel susceptibility genes.",
+      "reported_at": "2026-10-24T22:10:47.967494"
+    },
+    "42911976": {
+      "title": "Multi-omics analysis of high-grade serous ovarian cancers reveals heterogeneity and distinct immunological patterns based upon clinico-genomic status.",
+      "reported_at": "2026-10-24T22:10:47.967494"
+    },
+    "42926106": {
+      "title": "Final results of nivolumab plus ipilimumab versus nivolumab or chemotherapy in microsatellite instability-high/mismatch repair-deficient metastatic colorectal cancer from CheckMate 8HW.",
+      "reported_at": "2026-10-25T22:13:39.953331"
+    },
+    "42925246": {
+      "title": "Japanese Society for Hereditary Tumors Guidance: Hereditary Cancer Syndromes With Multigene Panel Testing, 2025 Edition.",
+      "reported_at": "2026-10-25T22:13:39.953331"
+    },
+    "42880820": {
+      "title": "Distinct genomic landscapes of mismatch-repair deficiency (dMMR)/microsatellite instability-high (MSI-H) gastrointestinal (GI) cancer depending on tumor mutation burden (TMB) levels.",
+      "reported_at": "2026-10-25T22:13:39.953331"
+    },
+    "42924496": {
+      "title": "The Economic Value of Hereditary Cancer Testing: A Systematic Review.",
+      "reported_at": "2026-10-25T22:13:39.953331"
+    },
+    "42914563": {
+      "title": "Extracellular matrix collagen remodeling predicts resistance to immune checkpoint blockade in mismatch repair-deficient endometrial cancer.",
+      "reported_at": "2026-10-25T22:13:39.953331"
+    },
+    "42925104": {
+      "title": "Dioscin Promotes Ferroptosis in Cervical Cancer Cells via the TIGAR-ROS Axis.",
+      "reported_at": "2026-10-25T22:13:39.953331"
+    },
+    "42927858": {
+      "title": "Clinical Complete Response with Dostarlimab Monotherapy in dMMR/MSI-H Locally Advanced Rectal Cancer: First Results from the Global AZUR-1 Trial.",
+      "reported_at": "2026-10-26T22:24:57.892827"
+    },
+    "42929736": {
+      "title": "Patient Sociodemographic Factors Impact the Breast Cancer Microenvironment.",
+      "reported_at": "2026-10-26T22:24:57.892827"
+    },
+    "42927875": {
+      "title": "Fatal Neonatal mTORopathy: Expanding the Phenotypic Spectrum of RRAGC-Associated Long-Olsen-Distelmaier Syndrome.",
+      "reported_at": "2026-10-26T22:24:57.892827"
+    },
+    "42932116": {
+      "title": "Patient-Derived Organoids for Predicting Chemotherapy Response in Bladder Cancer: A Multicenter, Real-world Validation Study.",
+      "reported_at": "2026-10-26T22:24:57.892827"
+    },
+    "42932274": {
+      "title": "Claudin-18 expression is associated with poorer overall survival in colorectal cancer.",
+      "reported_at": "2026-10-26T22:24:57.892827"
+    }
+  }
+}

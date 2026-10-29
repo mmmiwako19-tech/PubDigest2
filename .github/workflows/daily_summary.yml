@@ -1,0 +1,104 @@
+name: Daily Paper Summary and Email
+
+on:
+  schedule:
+    # 毎日 UTC 22:00（日本時間 翌朝 7:00）に実行
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+    inputs:
+      force_send:
+        description: '報告済み履歴を無視して要約・送信する（テスト用）'
+        required: false
+        type: boolean
+        default: true
+
+concurrency:
+  group: daily-summary
+  cancel-in-progress: false
+
+jobs:
+  run-summary:
+    runs-on: ubuntu-24.04  # ubuntu-latest は 2026/10 から Ubuntu 26 に移行するため固定
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+      NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Validate required secrets
+        env:
+          GMAIL_USERNAME: ${{ secrets.GMAIL_USERNAME }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_RECIPIENT: ${{ secrets.GMAIL_RECIPIENT }}
+        run: |
+          missing=""
+          for name in GEMINI_API_KEY NCBI_EMAIL GMAIL_USERNAME GMAIL_APP_PASSWORD GMAIL_RECIPIENT; do
+            [ -z "${!name}" ] && missing="$missing $name"
+          done
+          if [ -n "$missing" ]; then
+            echo "エラー: 以下の Secrets が設定されていません:$missing"
+            echo "Settings → Secrets and variables → Actions から設定してください（NCBI_API_KEY は任意）。"
+            exit 1
+          fi
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run PubDigest
+        env:
+          FORCE_SEND: ${{ inputs.force_send }}
+        run: |
+          if [ "$FORCE_SEND" = "true" ]; then
+            python main.py --force
+          else
+            python main.py
+          fi
+
+      - name: Find output file
+        id: find_file
+        run: |
+          TXT_FILE=$(ls -t output/*.txt 2>/dev/null | head -n 1 || true)
+          if [ -z "$TXT_FILE" ]; then
+            echo "新規論文がないため、メール送信をスキップします。"
+            echo "file_found=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "file_path=$TXT_FILE" >> "$GITHUB_OUTPUT"
+            echo "file_found=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send summary via email
+        if: steps.find_file.outputs.file_found == 'true'
+        uses: dawidd6/action-send-mail@v22
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.GMAIL_USERNAME }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: 🩺【PubDigest】新着の論文要約をお届けします
+          to: ${{ secrets.GMAIL_RECIPIENT }}
+          from: PubDigest <${{ secrets.GMAIL_USERNAME }}>
+          body: file://${{ steps.find_file.outputs.file_path }}
+
+      - name: Save history
+        if: steps.find_file.outputs.file_found == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add history.json
+          git commit -m "chore: Update paper history" || echo "No changes to commit"
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+          git push

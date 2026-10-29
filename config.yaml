@@ -1,0 +1,260 @@
+# ======================================================================
+# PubDigest 設定ファイル
+# このファイルを直接編集して、検索条件・スコアリングを調整してください。
+# ======================================================================
+
+# メール・AI プロンプトで使う専門領域名
+specialty_name: 遺伝性腫瘍/がんゲノム
+
+search:
+  days_back: 10        # 過去何日分を検索するか
+  max_results: 200     # PubMed から取得する最大件数
+  top_n: 20            # 要約・配信する論文数
+  detailed_top_n: 20   # 原著論文のうち詳細要約にする上位件数（残りは簡潔要約）
+
+# 専門領域キーワード（小文字推奨）
+#   primary  : PubMed 検索（Title/Abstract）とスコアリング（1語5点、最大15点）
+#   secondary: スコアリングのみ（1語2点、最大6点）
+specialties:
+  primary:
+  - hereditary cancer
+  - hereditary tumor
+  - germline mutation
+  - germline variant
+  - genetic testing
+  - cancer predisposition syndrome
+  - genetic risk assessment
+  - familial cancer
+  - hereditary breast and ovarian cancer
+  - brca1
+  - brca2
+  - lynch syndrome
+  - mismatch repair
+  - mlh1
+  - msh2
+  - msh6
+  - pms2
+  - epcam
+  - microsatellite instability
+  - msi
+  - familial adenomatous polyposis
+  - fap
+  - apc
+  - li-fraumeni syndrome
+  - tp53
+  - cowden syndrome
+  - juvenile polyposis syndrome
+  - peutz-jeghers syndrome
+  - sessile serrated polyposis
+  - serrated polyposis syndrome
+  - cancer screening
+  - chemoprevention
+  - risk-reducing surgery
+  - precision oncology
+  - molecular pathology
+  - tumor suppressor gene
+  secondary:
+  - retinoblastoma
+  - rb1
+  - diffuse gastric and lobular breast cancer syndrome
+  - cdh1
+  - cutaneous malignant melanoma
+  - cdkn2a
+  - melanoma pancreatic cancer syndrome
+  - dicer1
+  - hereditary leiomyomatosis and renal cell cancer
+  - hlrcc
+  - fh
+  - birt hogg dube syndrome
+  - flcn
+  - pheochromocytoma
+  - pheochromocytoma paraganglioma
+  - sdha
+  - sdhb
+  - sdhc
+  - sdhd
+  - multiple endocrine neoplasia
+  - men1
+  - ret
+  - neurofibromatosis
+  - nf1
+  - von recklinghausen
+  - schwannomatosis
+  - nf2
+  - tuberous sclerosis
+  - tsc1
+  - tsc2
+  - von hippel-lindau
+  - vhl
+  - wilms tumor
+  - wt1
+
+# 検索対象ジャーナル（PubMed の ISO 略称）
+#   PubMed 検索の対象になり、スコアは tier1=10 / tier2=8 / tier3=6 / tier4=4 点、
+#   それ以外は3点。複数の tier に書いた場合は上位 tier が優先されます。
+journals:
+  tier1:
+  - CA Cancer J Clin
+  - N Engl J Med
+  - Lancet
+  - Lancet Oncol
+  - JAMA
+  - JAMA Oncol
+  - JAMA Surg
+  - J Clin Oncol
+  - Ann Oncol
+  - Nature
+  - Nat Med
+  - Nat Genet
+  - Nat Cancer
+  - Nat Rev Clin Oncol
+  - Nat Rev Cancer
+  - Nat Cell Biol
+  - Science
+  - Cell
+  - Cell Rep Med
+  - Cancer Cell
+  - Cancer Discov
+  tier2:
+  - JAMA Intern Med
+  - Lancet Gastroenterol Hepatol
+  - Genet Med
+  - J Med Genet
+  - Clin Genet
+  - Cancer Res
+  - Clin Cancer Res
+  - J Natl Cancer Inst
+  - J Natl Compr Canc Netw
+  - Int J Cancer
+  - Proc Natl Acad Sci U S A
+  - Gut
+  - Gastroenterology
+  - Clin Gastroenterol Hepatol
+  - Endoscopy
+  - Br J Cancer
+  - Br J Surg
+  - Eur J Cancer
+  - JAMA Netw Open
+  - ESMO Open
+  - Nat Commun
+  - EClinicalMedicine
+  - EBioMedicine
+  - J Immunother Cancer
+  - Cancer
+  - Sci Robot
+  - Sci Adv
+  - Sci Signal
+  - Sci Transl Med
+  - Trends Genet
+  - Trends Cancer
+  tier3:
+  - Fam Cancer
+  - Eur J Hum Genet
+  - Am J Hum Genet
+  - Hum Mutat
+  - Ann Surg Oncol
+  - Breast Cancer Res Treat
+  - Gynecol Oncol
+  - Dis Colon Rectum
+  - Cancer Sci
+  - J Gastroenterol
+  - Int J Clin Oncol
+  - Jpn J Clin Oncol
+  - Bioinformatics
+  - Nat Clin Pract Oncol
+  - JCO Clin Cancer Inform
+  - JCO Precis Oncol
+  - NPJ Precis Oncol
+  - Hered Cancer Clin Pract
+  - J Clin Gastroenterol
+  - PLoS One
+  - PLoS Med
+  - PLoS Genet
+  - Sci Rep
+  - NEJM Evid
+  - NEJM AI
+  - NEJM Catal Innov Care Deliv
+  - ArXiv
+  - bioRxiv
+  tier4: []
+
+# 論文タイプ（PubMed Publication Type）ごとのスコア。未記載のタイプは3点
+study_type_scores:
+  Randomized Controlled Trial: 10
+  Practice Guideline: 10
+  Guideline: 10
+  Meta-Analysis: 9
+  Systematic Review: 9
+  Clinical Trial: 8
+  Multicenter Study: 7
+  Observational Study: 6
+  Cohort Study: 6
+  Review: 8
+  Editorial: 2
+  Case Reports: 1
+  Comment: 1
+  Letter: 1
+
+# "Journal Article" 以外のタイプがすべてここに含まれる論文は除外
+exclude_types:
+- Case Reports
+- Editorial
+- Comment
+- Letter
+- Published Erratum
+
+# 臨床関連性スコア（high_value=5点 / practical=3点 / japan_relevant=2点）
+clinical_relevance:
+  high_value:
+  - hereditary cancer predisposition syndrome
+  - cancer predisposition gene
+  - genetic testing
+  - multi gene panel testing
+  - cancer incidence
+  - cancer mortality
+  - precision oncology
+  - cancer genome
+  - oncogene
+  - protooncogene
+  - tumor suppressor gene
+  - driver mutation
+  practical:
+  - prevalence
+  - penetrance
+  - risk-reduction
+  - chemoprevention
+  - clinical management
+  - risk stratification
+  - treatment decision
+  - guideline adherence
+  - implementation science
+  - clinical utility
+  - randomized controlled trial
+  japan_relevant:
+  - japanese
+  - asian
+  - japan
+  - east asian
+
+# 基礎研究の除外キーワード（例: in vitro, mouse model, cell line）
+# これらを含み、patient/clinical/trial 等の臨床語を含まない論文を除外。空なら除外しない
+basic_science_exclude: []
+
+ai:
+  model_chain:         # 上から順に試し、失敗したら次のモデルへ
+  - gemini-3.8-flash
+  - gemini-3.7-flash
+  - gemini-3.6-flash
+  - gemini-3.5-flash
+  - gemini-3.5-flash-lite
+  timeout: 120         # 1リクエストのタイムアウト（秒）
+  max_retries: 3       # モデルごとの試行回数
+  retry_delay: 5       # 再試行までの待ち時間（秒、試行ごとに増加）
+
+output:
+  directory: output
+  filename_format: 医学論文レビュー_{date}.txt
+
+history:
+  file: history.json   # 報告済み論文（重複配信防止）
+  retention_days: 180
