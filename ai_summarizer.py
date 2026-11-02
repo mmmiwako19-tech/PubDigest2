@@ -3,11 +3,17 @@ AI 要約モジュール
 
 Google Gemini API（google-genai SDK）で各論文の批判的要約を日本語で生成する。
 config.yaml の ai.model_chain の順にモデルを試し、失敗時は次のモデルへフォールバックする。
+
+失敗の種類ごとに扱いを分け、モデルの状態はセッション中（全論文を通して）保持する:
+  - 404 / 日次クォータ切れ(429)  → そのモデルは以降使わない
+  - 分単位のレート制限(429)       → API が示す retryDelay の間だけ休ませる
+  - 504 / タイムアウト / 503 など → 同じモデルで粘らず次のモデルへ。連続失敗ほど長く休ませる
 """
 
 import logging
 import re
 import time
+from dataclasses import dataclass
 from typing import Optional
 
 from google import genai
@@ -24,6 +30,64 @@ EXCLUDED_MODEL_WORDS = (
     "preview", "exp", "computer-use", "nano", "banana", "veo", "imagen",
 )
 REQUEST_INTERVAL = 4.5  # 秒。無料枠 15 RPM 対策
+
+# 混雑・タイムアウトしたモデルを休ませる時間（秒）。連続失敗ごとに倍増
+COOLDOWN_BASE = 120
+COOLDOWN_MAX = 900
+RATE_LIMIT_DEFAULT_WAIT = 60   # 分単位レート制限で retryDelay が取れないときの待ち時間
+MAX_SLEEP_FOR_COOLDOWN = 60    # 全モデルが休止中のとき、最大これだけ待ってから試す
+
+
+@dataclass
+class ModelState:
+    """モデルごとの状態（セッション中保持）"""
+    dead: bool = False             # 以降使わない（404 / 日次クォータ切れ）
+    cooldown_until: float = 0.0    # この時刻（monotonic）までは後回し
+    strikes: int = 0               # 連続失敗回数
+    use_thinking: bool = True      # thinking_config 非対応なら False
+
+
+@dataclass
+class ApiFailure:
+    kind: str                      # gone / quota / rate / slow / busy / invalid / empty
+    detail: str                    # ログ用の要約
+    retry_after: Optional[float] = None
+
+
+def classify_error(e: Exception) -> ApiFailure:
+    """例外を種類に分け、ログ用の詳細（quotaId / retryDelay など）を取り出す"""
+    code = getattr(e, "code", None)
+    status = getattr(e, "status", None) or ""
+    raw = str(getattr(e, "details", None) or e)
+    message = str(getattr(e, "message", None) or e).split("\n")[0]
+
+    retry = re.search(r"retryDelay['\"]?\s*:\s*['\"]?(\d+(?:\.\d+)?)s", raw)
+    retry_after = float(retry.group(1)) if retry else None
+    quota_ids = sorted(set(re.findall(r"quotaId['\"]?\s*:\s*['\"]([^'\"]+)", raw)))
+
+    if isinstance(code, int):
+        detail = f"{code} {status}".strip()
+        if quota_ids:
+            detail += f" [{', '.join(quota_ids)}]"
+        if retry_after is not None:
+            detail += f" retryDelay={retry_after:g}s"
+        if not quota_ids:
+            detail += f": {message[:160]}"
+    else:
+        detail = f"{type(e).__name__}: {message[:160]}"
+
+    if code == 404 or "NOT_FOUND" in raw[:200]:
+        return ApiFailure("gone", detail)
+    if code == 429:
+        # 日次上限・プラン外（limit: 0）は当日中は回復しない
+        if any("PerDay" in q for q in quota_ids) or re.search(r"limit:\s*0\b", raw):
+            return ApiFailure("quota", detail)
+        return ApiFailure("rate", detail, retry_after)
+    if code == 400:
+        return ApiFailure("invalid", detail)
+    if code == 504 or "timed out" in message.lower() or "timeout" in type(e).__name__.lower():
+        return ApiFailure("slow", detail)
+    return ApiFailure("busy", detail)
 
 # 医学用語（がん・死亡・変異等）が誤ブロックされないようセーフティ制限を緩和
 SAFETY_SETTINGS = [
@@ -222,89 +286,191 @@ class AISummarizer:
     def __init__(self, config: dict, api_key: str):
         self.specialty_name = config.get("specialty_name", "医学")
         ai_cfg = config.get("ai", {})
-        self.model_chain = ai_cfg.get("model_chain") or DEFAULT_MODEL_CHAIN
-        self.max_retries = max(1, ai_cfg.get("max_retries", 3))
+        self.model_chain = list(ai_cfg.get("model_chain") or DEFAULT_MODEL_CHAIN)
+        # チェーン全体を何周まで試すか（旧設定名 max_retries も受け付ける）
+        self.max_rounds = max(1, ai_cfg.get("max_rounds", ai_cfg.get("max_retries", 2)))
         self.retry_delay = ai_cfg.get("retry_delay", 5)
-        timeout_ms = int(ai_cfg.get("timeout", 120) * 1000)
+        self.time_budget = ai_cfg.get("time_budget_minutes", 30) * 60
+        timeout_ms = int(ai_cfg.get("timeout", 90) * 1000)
 
+        # timeout は X-Server-Timeout としてサーバーにも送られ、超えると 504 になる
         self.client = genai.Client(
             api_key=api_key.strip(),
             http_options=types.HttpOptions(timeout=timeout_ms),
         )
-        self.generate_config = types.GenerateContentConfig(
+        base = dict(
             temperature=0.3,
             max_output_tokens=8192,  # 思考トークンも含まれるため余裕を持たせる
             safety_settings=SAFETY_SETTINGS,
         )
-        self.unavailable: set[str] = set()
+        self.plain_config = types.GenerateContentConfig(**base)
+        thinking_level = (ai_cfg.get("thinking_level") or "").strip().upper()
+        if thinking_level:
+            self.thinking_config = types.GenerateContentConfig(
+                **base,
+                thinking_config=types.ThinkingConfig(thinking_level=thinking_level),
+            )
+        else:
+            self.thinking_config = self.plain_config
+
+        self.states: dict[str, ModelState] = {}
         self.discovered = False
-        logger.info(f"AISummarizer 初期化完了: モデルチェーン={self.model_chain}")
+        logger.info(
+            f"AISummarizer 初期化完了: モデルチェーン={self.model_chain} "
+            f"timeout={timeout_ms // 1000}s thinking={thinking_level or '既定'} "
+            f"時間予算={self.time_budget // 60:.0f}分"
+        )
+
+    def _state(self, model: str) -> ModelState:
+        return self.states.setdefault(model, ModelState())
 
     def summarize_papers(self, papers: list[Paper], detailed_top_n: int) -> list[Paper]:
         """
-        各論文に要約（paper.summary）を付与する
+        各論文に要約（paper.summary）を付与する。成功した論文は paper.summary_ok = True
+
+        時間予算（ai.time_budget_minutes）を超えたら残りの論文は要約せずに打ち切り、
+        Actions のジョブがタイムアウトでメール送信前に止まらないようにする。
 
         Args:
             papers: 優先度順の論文リスト
             detailed_top_n: 原著論文のうち詳細要約を行う上位件数（それ以外は簡潔要約）
         """
         total = len(papers)
+        start = time.monotonic()
+        deadline = start + self.time_budget
         for i, paper in enumerate(papers):
+            if time.monotonic() >= deadline:
+                logger.warning(
+                    f"時間予算（{self.time_budget // 60:.0f}分）を超えたため、"
+                    f"残り {total - i} 本の要約を省略します（次回の配信に回ります）"
+                )
+                for rest in papers[i:]:
+                    rest.summary = "⚠ 時間切れのため要約を省略しました。次回の配信で改めて要約します。"
+                break
+
             prompt = self.build_prompt(paper, detailed=i < detailed_top_n)
             logger.info(f"[{i + 1}/{total}] 要約中: {paper.title[:50]}...")
-
-            result, error = self._generate(prompt)
-            paper.summary = result or f"⚠ 要約の生成に失敗しました。（{error}）"
+            t0 = time.monotonic()
+            result, error = self._generate(prompt, deadline)
+            logger.info(f"  所要 {time.monotonic() - t0:.0f} 秒")
+            if result:
+                paper.summary = result
+                paper.summary_ok = True
+            else:
+                paper.summary = f"⚠ 要約の生成に失敗しました。次回の配信で改めて要約します。（{error}）"
 
             if i < total - 1:
                 time.sleep(REQUEST_INTERVAL)
+
+        ok = sum(p.summary_ok for p in papers)
+        logger.info(f"要約完了: {ok}/{total} 本（{(time.monotonic() - start) / 60:.1f} 分）")
         return papers
 
-    def _generate(self, prompt: str) -> tuple[Optional[str], str]:
+    def _generate(self, prompt: str, deadline: float) -> tuple[Optional[str], str]:
         """
         モデルチェーンを順に試して要約を生成する。戻り値は (テキスト, エラー)
 
-        提供終了などで使えないモデル（404）は以降の論文でも使わない。
+        各モデルは1周につき1回だけ試す（同じモデルで粘らない）。休止中のモデルは後回しにし、
+        全滅したら retry_delay 待って最大 max_rounds 周まで繰り返す。
         設定したモデルがすべて使えない場合は、API から利用可能なモデルを自動検出して続行する。
         """
         errors = []
-        while True:
-            for model in [m for m in self.model_chain if m not in self.unavailable]:
+        for round_no in range(1, self.max_rounds + 1):
+            tried: set[str] = set()
+            while (model := self._next_model(tried)) is not None:
+                if time.monotonic() >= deadline:
+                    errors.append("時間切れ")
+                    return None, " → ".join(errors)
+                tried.add(model)
                 text, error = self._try_model(model, prompt)
                 if text:
                     return text, ""
                 errors.append(f"{model}: {error}")
 
-            if any(m not in self.unavailable for m in self.model_chain) or self.discovered:
-                break
-            self._discover_models()
+            if not self._alive_models():
+                if self.discovered:
+                    break
+                self._discover_models()
+                continue
+            if round_no < self.max_rounds:
+                time.sleep(self.retry_delay)
 
         error = " → ".join(errors) or "利用可能なモデルがありません"
         logger.error(f"全モデルで生成に失敗しました: {error}")
         return None, error
 
+    def _alive_models(self) -> list[str]:
+        return [m for m in self.model_chain if not self._state(m).dead]
+
+    def _next_model(self, tried: set[str]) -> Optional[str]:
+        """次に試すモデルを選ぶ。休止中でないものをチェーン順に、なければ休止明けが最も早いもの"""
+        candidates = [m for m in self._alive_models() if m not in tried]
+        if not candidates:
+            return None
+        now = time.monotonic()
+        for m in candidates:
+            if self._state(m).cooldown_until <= now:
+                return m
+        model = min(candidates, key=lambda m: self._state(m).cooldown_until)
+        wait = self._state(model).cooldown_until - now
+        if wait <= MAX_SLEEP_FOR_COOLDOWN:
+            logger.info(f"  全モデルが休止中のため {wait:.0f} 秒待って {model} を試します")
+            time.sleep(wait)
+        return model
+
     def _try_model(self, model: str, prompt: str) -> tuple[Optional[str], str]:
-        msg = ""
-        for attempt in range(1, self.max_retries + 1):
-            try:
-                response = self.client.models.generate_content(
-                    model=model, contents=prompt, config=self.generate_config
-                )
-                text = (response.text or "").strip()
-                if text:
-                    logger.info(f"  → {model} で生成しました")
-                    return text, ""
-                msg = "空の応答"
-            except Exception as e:
-                msg = str(e).split("\n")[0][:120]
-                if getattr(e, "code", None) == 404 or "NOT_FOUND" in msg:
-                    logger.warning(f"  {model} は利用できません（以降スキップ）: {msg}")
-                    self.unavailable.add(model)
-                    return None, "利用不可 (404)"
-            logger.warning(f"  {model} 失敗 ({attempt}/{self.max_retries}): {msg}")
-            if attempt < self.max_retries:
-                time.sleep(self.retry_delay * attempt)
-        return None, msg
+        """1回だけ試す。失敗時はモデルの状態（使用不可・休止）を更新する"""
+        state = self._state(model)
+        config = self.thinking_config if state.use_thinking else self.plain_config
+        t0 = time.monotonic()
+        try:
+            response = self.client.models.generate_content(
+                model=model, contents=prompt, config=config
+            )
+            text = (response.text or "").strip()
+            if text:
+                state.strikes = 0
+                state.cooldown_until = 0.0
+                logger.info(f"  → {model} で生成しました（{time.monotonic() - t0:.0f} 秒）")
+                return text, ""
+            reason = ""
+            if response.candidates:
+                reason = str(response.candidates[0].finish_reason or "")
+            failure = ApiFailure("empty", f"空の応答 {reason}".strip())
+        except Exception as e:
+            failure = classify_error(e)
+
+        # thinking_config 非対応のモデルなら、外して即再試行
+        if (failure.kind == "invalid" and state.use_thinking
+                and config is not self.plain_config and "thinking" in failure.detail.lower()):
+            logger.warning(f"  {model} は thinking 設定に非対応のため外して再試行します")
+            state.use_thinking = False
+            return self._try_model(model, prompt)
+
+        self._record_failure(model, failure, time.monotonic() - t0)
+        return None, failure.detail
+
+    def _record_failure(self, model: str, failure: ApiFailure, elapsed: float):
+        state = self._state(model)
+        where = f"  {model} 失敗（{elapsed:.0f} 秒）: {failure.detail}"
+        if failure.kind in ("gone", "quota", "invalid"):
+            state.dead = True
+            label = {"gone": "提供終了/存在しない", "quota": "日次クォータ切れ", "invalid": "リクエスト不正"}
+            logger.warning(f"{where} → {label[failure.kind]}のため以降スキップ")
+            return
+        if failure.kind == "rate":
+            wait = failure.retry_after or RATE_LIMIT_DEFAULT_WAIT
+            state.cooldown_until = time.monotonic() + wait
+            logger.warning(f"{where} → レート制限のため {wait:.0f} 秒休止")
+            return
+        if failure.kind == "empty":
+            logger.warning(f"{where} → 次のモデルへ")
+            return
+        # slow / busy: 連続失敗ほど長く休ませる
+        state.strikes += 1
+        wait = min(COOLDOWN_BASE * 2 ** (state.strikes - 1), COOLDOWN_MAX)
+        state.cooldown_until = time.monotonic() + wait
+        logger.warning(f"{where} → 次のモデルへ（{wait:.0f} 秒休止、連続 {state.strikes} 回目）")
 
     def _discover_models(self):
         """API のモデル一覧から、テキスト生成に使える Gemini モデルを選んでチェーンに追加する"""
@@ -325,7 +491,7 @@ class AISummarizer:
 
         candidates = sorted(
             (n for n in names
-             if n.startswith("gemini-") and n not in self.unavailable
+             if n.startswith("gemini-") and n not in self.model_chain
              and not any(w in n for w in EXCLUDED_MODEL_WORDS)),
             key=rank,
         )[:3]

@@ -111,7 +111,11 @@ def main() -> int:
         output_path = TextGenerator(config).generate(top_papers)
 
         logger.info("━━━ 5. 履歴更新 ━━━")
-        paper_filter.save_history(top_papers)
+        # 要約に失敗・省略した論文は履歴に入れず、次回の配信で再挑戦する
+        done = [p for p in top_papers if p.summary_ok]
+        if len(done) < len(top_papers):
+            logger.warning(f"要約できなかった {len(top_papers) - len(done)} 本は履歴に記録しません")
+        paper_filter.save_history(done)
 
         logger.info(f"[SUCCESS] 完了: {output_path}")
         return 0

@@ -44,6 +44,7 @@ class Paper:
     selection_reason: str = ""
     # AI 要約結果
     summary: str = ""
+    summary_ok: bool = False  # 要約に成功したか（失敗した論文は履歴に残さず次回に回す）
 
     @property
     def pubmed_url(self) -> str:
