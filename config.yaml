@@ -247,9 +247,16 @@ ai:
   - gemini-3.6-flash
   - gemini-3.5-flash
   - gemini-3.5-flash-lite
-  timeout: 120         # 1リクエストのタイムアウト（秒）
-  max_retries: 3       # モデルごとの試行回数
-  retry_delay: 5       # 再試行までの待ち時間（秒、試行ごとに増加）
+  # 1リクエストのタイムアウト（秒）。サーバーにも送られ、超えると 504 DEADLINE_EXCEEDED になる
+  timeout: 90
+  # 思考の深さ（minimal / low / medium / high）。低いほど速い。空欄ならモデル既定（遅くなりがち）
+  # 非対応のモデルでは自動的に外して再試行します
+  thinking_level: low
+  max_rounds: 2        # 全モデルが失敗したとき、チェーン全体を何周まで試すか（1モデル1周1回）
+  retry_delay: 5       # 次の周までの待ち時間（秒）
+  # AI 要約全体の時間予算（分）。超えたら残りは要約せず次回に回す
+  # （ワークフローの timeout-minutes より十分短くすること）
+  time_budget_minutes: 30
 
 output:
   directory: output
