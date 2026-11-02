@@ -19,7 +19,7 @@ concurrency:
 jobs:
   run-summary:
     runs-on: ubuntu-24.04  # ubuntu-latest は 2026/10 から Ubuntu 26 に移行するため固定
-    timeout-minutes: 30
+    timeout-minutes: 45  # config.yaml の ai.time_budget_minutes（30分）+ 検索・送信の余裕
     permissions:
       contents: write
 
